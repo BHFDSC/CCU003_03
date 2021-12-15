@@ -9,9 +9,8 @@ Description/plain English summary to be added here.
 
 ## Code
 
-* Click [here] to view the analysis code used in NHS Digital's TRE for England.
-* Click [here] to view the code used outside of NHS Digital's TRE for England in order to prepare tables and figures for publication.
-* Phenotyping algorithms and codelists used in NHS Digital's TRE for England are available [here]
+* Click [here](https://github.com/BHFDSC/CCU003_03/tree/main/code) to view the analysis code used in NHS Digital's TRE for England.
+* Phenotyping algorithms and codelists used in NHS Digital's TRE for England are available [here](https://github.com/BHFDSC/CCU003_03/tree/main/phenotypes)
 
 ## Project approval
 
