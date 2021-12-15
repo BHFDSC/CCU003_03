@@ -1,0 +1,622 @@
+name,terminology,code,term,code_type,RecordDate
+Corticosteroid,BNF_chemical,0603010I0,Fludrocortisone Acetate,1,20210802
+Corticosteroid,BNF_chemical,0603020B0,Betamethasone,1,20210802
+Corticosteroid,BNF_chemical,0603020C0,Betamethasone Sodium Phosphate,1,20210802
+Corticosteroid,BNF_chemical,0603020F0,Cortisone Acetate,1,20210802
+Corticosteroid,BNF_chemical,0603020I0,Deflazacort,1,20210802
+Corticosteroid,BNF_chemical,0603020G0,Dexamethasone,1,20210802
+Corticosteroid,BNF_chemical,0603020AA,Dexamethasone Phosphate,1,20210802
+Corticosteroid,BNF_chemical,0603020H0,Dexamethasone Sodium Phosphate,1,20210802
+Corticosteroid,BNF_chemical,0603020J0,Hydrocortisone,1,20210802
+Corticosteroid,BNF_chemical,0603020L0,Hydrocortisone Sodium Phosphate,1,20210802
+Corticosteroid,BNF_chemical,0603020M0,Hydrocortisone Sodium Succinate,1,20210802
+Corticosteroid,BNF_chemical,0603020S0,Methylprednisolone,1,20210802
+Corticosteroid,BNF_chemical,0603020AC,Methylprednisolone Aceponate,1,20210802
+Corticosteroid,BNF_chemical,0603020K0,Methylprednisolone Sodium Succinate,1,20210802
+Corticosteroid,BNF_chemical,0603020T0,Prednisolone,1,20210802
+Corticosteroid,BNF_chemical,0603020X0,Prednisone,1,20210802
+Corticosteroid,BNF_chemical,0603020Z0,Triamcinolone Acetonide,1,20210802
+Corticosteroid,SNOMED,350387002,Product containing betamethasone in oral dose form ,1,20210708
+Corticosteroid,SNOMED,778504001,Product containing only betamethasone in oral dose form,1,20210708
+Corticosteroid,SNOMED,784609000,Product containing precisely betamethasone 120 microgram/1 milliliter conventional release oral solution (clinical drug),1,20210708
+Corticosteroid,SNOMED,325345003,Product containing precisely betamethasone 500 microgram/1 each conventional release oral tablet,1,20210708
+Corticosteroid,SNOMED,376549004,Product containing precisely betamethasone 600 microgram/1 each conventional release oral tablet (clinical drug),1,20210708
+Corticosteroid,SNOMED,768296006,Product containing prednisone in oral dose form (medicinal product form),1,20210708
+Corticosteroid,SNOMED,17872811000001100,Prednisone 1mg modified-release tablets (product),1,20210708
+Corticosteroid,SNOMED,17873211000001107,Prednisone 2mg modified-release tablets (product),1,20210708
+Corticosteroid,SNOMED,17873811000001108,Prednisone 5mg modified-release tablets (product),1,20210708
+Corticosteroid,SNOMED,373989007,Product containing precisely prednisone 2.5 milligram/1 each conventional release oral tablet (clinical drug),1,20210708
+Corticosteroid,SNOMED,374058000,Product containing precisely prednisone 10 milligram/1 each conventional release oral tablet (clinical drug),1,20210708
+Corticosteroid,SNOMED,325456002,Product containing precisely prednisone 20 milligram/1 each conventional release oral tablet (clinical drug),1,20210708
+Corticosteroid,SNOMED,374072009,Product containing precisely prednisone 50 milligram/1 each conventional release oral tablet (clinical drug),1,20210708
+Corticosteroid,SNOMED,11835611000001107,Clipper 5mg gastro-resistant modified-release tablets (Trinity-Chiesi Pharmaceuticals Ltd) (product),1,20210708
+Corticosteroid,SNOMED,11835711000001103,Clipper 5mg gastro-resistant modified-release tablets (Trinity-Chiesi Pharmaceuticals Ltd) 30 tablet (product),1,20210708
+Corticosteroid,SNOMED,11835611000001107,Clipper 5mg gastro-resistant modified-release tablets (Trinity-Chiesi Pharmaceuticals Ltd) (product),1,20210708
+Corticosteroid,SNOMED,11835711000001103,Clipper 5mg gastro-resistant modified-release tablets (Trinity-Chiesi Pharmaceuticals Ltd) 30 tablet (product),1,20210708
+Corticosteroid,SNOMED,11880411000001100,beclometasone gastro-resistant modified release tablets 5mg,1,20210708
+Corticosteroid,SNOMED,3804311000001103,Betnelan 500microgram tablets (Celltech Pharmaceuticals Ltd) (product),1,20210708
+Corticosteroid,SNOMED,9223501000001105,Betnelan (product),1,20210708
+Corticosteroid,SNOMED,3804411000001105,Betnelan 500microgram tablets (Celltech Pharmaceuticals Ltd) 100 tablet (product),1,20210708
+Corticosteroid,SNOMED,9228101000001105,Budenofalk (product),1,20210708
+Corticosteroid,SNOMED,3807811000001103,Budenofalk 3mg gastro-resistant capsules (Dr Falk Pharma UK Ltd) (product),1,20210708
+Corticosteroid,SNOMED,16349011000001102,Budenofalk 3mg gastro-resistant capsules (Mawdsley-Brooks & Company Ltd) (product),1,20210708
+Corticosteroid,SNOMED,16349111000001101,Budenofalk 3mg gastro-resistant capsules (Mawdsley-Brooks & Company Ltd) 100 capsule (product),1,20210708
+Corticosteroid,SNOMED,3808011000001105,Budenofalk 3mg gastro-resistant capsules (Dr Falk Pharma UK Ltd) 100 capsule 10 x 10 capsules (product),1,20210708
+Corticosteroid,SNOMED,19738311000001103,Budenofalk 9mg gastro-resistant granules sachets (Dr. Falk Pharma UK Ltd) (product),1,20210708
+Corticosteroid,SNOMED,19738511000001109,Budenofalk 9mg gastro-resistant granules sachets (Dr. Falk Pharma UK Ltd) 60 sachet (product),1,20210708
+Corticosteroid,SNOMED,9276901000001105,Entocort CR (product),1,20210708
+Corticosteroid,SNOMED,37889411000001101,Entocort CR 3mg capsules (CST Pharma Ltd) (product),1,20210708
+Corticosteroid,SNOMED,13871611000001102,Entocort CR 3mg capsules (Doncaster Pharmaceuticals Ltd) (product),1,20210708
+Corticosteroid,SNOMED,13160111000001102,Entocort CR 3mg capsules (Dowelhurst Ltd) (product),1,20210708
+Corticosteroid,SNOMED,19963611000001100,Entocort CR 3mg capsules (Lexon (UK) Ltd) (product),1,20210708
+Corticosteroid,SNOMED,5363111000001107,Entocort CR 3mg capsules (PI) (Waymade Ltd) (product),1,20210708
+Corticosteroid,SNOMED,3765811000001105,Entocort CR 3mg capsules (Tillotts Pharma UK Ltd) (product),1,20210708
+Corticosteroid,SNOMED,108622005,Product containing budesonide (medicinal product),1,20210708
+Corticosteroid,SNOMED,35912611000001102,Budesonide 3mg gastro-resistant modified-release capsules (product),1,20210708
+Corticosteroid,SNOMED,3654611000001109,Budesonide 500micrograms/ml nebuliser liquid 2ml unit dose vials (product),1,20210708
+Corticosteroid,SNOMED,19743911000001108,Budesonide 9mg gastro-resistant granules sachets (product),1,20210708
+Corticosteroid,SNOMED,29094911000001100,Budesonide 9mg modified-release tablets (product),1,20210708
+Corticosteroid,SNOMED,356117009,Product containing budesonide in oral dose form (medicinal product form),1,20210708
+Corticosteroid,SNOMED,3669611000001101,Cortisone 25mg tablets (A A H Pharmaceuticals Ltd) (product),1,20210708
+Corticosteroid,SNOMED,3670511000001103,Cortisone 25mg tablets (Unichem Plc) (product),1,20210708
+Corticosteroid,SNOMED,20093711000001103,Cortisone 25mg tablets (Special Order) (product),1,20210708
+Corticosteroid,SNOMED,325349009 ,Product containing precisely cortisone acetate 25 milligram/1 each conventional release oral tablet (clinical drug),1,20210708
+Corticosteroid,SNOMED,376711001,Product containing precisely cortisone acetate 5 milligram/1 each conventional release oral tablet (clinical drug),1,20210708
+Corticosteroid,SNOMED,768270009,Product containing cortisone in oral dose form (medicinal product form),1,20210708
+Corticosteroid,SNOMED,16602005,Product containing hydrocortisone (medicinal product),1,20210708
+Corticosteroid,SNOMED,373982003,Hydrocortisone 5 mg oral tablet,1,20210708
+Corticosteroid,SNOMED,325374007,Hydrocortisone 20 mg oral tablet,1,20210708
+Corticosteroid,SNOMED,13614511000001104,Hydrocortisone 20mg tablets (A A H Pharmaceuticals Ltd) (product),1,20210708
+Corticosteroid,SNOMED,17974111000001109,Hydrocortisone 20mg tablets (Almus Pharmaceuticals Ltd) (product),1,20210708
+Corticosteroid,SNOMED,13661911000001107,Hydrocortisone 20mg tablets (Auden McKenzie (Pharma Division) Ltd) (product),1,20210708
+Corticosteroid,SNOMED,34616411000001107,Hydrocortisone 20mg tablets (Bristol Laboratories Ltd) (product),1,20210708
+Corticosteroid,SNOMED,24154311000001104,Hydrocortisone 20mg tablets (DE Pharmaceuticals) (product),1,20210708
+Corticosteroid,SNOMED,35109111000001100,Hydrocortisone 20mg tablets (Flynn Pharma Ltd) (product),1,20210708
+Corticosteroid,SNOMED,34702511000001102,Hydrocortisone 20mg tablets (Focus Pharmaceuticals Ltd) (product),1,20210708
+Corticosteroid,SNOMED,34958011000001107,Hydrocortisone 20mg tablets (Genesis Pharmaceuticals Ltd) (product),1,20210708
+Corticosteroid,SNOMED,32407611000001101,Hydrocortisone 20mg tablets (Kent Pharmaceuticals Ltd) (product),1,20210708
+Corticosteroid,SNOMED,37089411000001100,Hydrocortisone 20mg tablets (Mawdsley-Brooks & Company Ltd) (product),1,20210708
+Corticosteroid,SNOMED,38946311000001105,Hydrocortisone 20mg tablets (Medihealth (Northern) Ltd) (product),1,20210708
+Corticosteroid,SNOMED,38063711000001102,Hydrocortisone 20mg tablets (NorthStar Healthcare Unlimited Company) (product),1,20210708
+Corticosteroid,SNOMED,17930411000001108,Hydrocortisone 20mg tablets (Phoenix Healthcare Distribution Ltd) (product),1,20210708
+Corticosteroid,SNOMED,36508611000001108,Hydrocortisone 20mg tablets (Resolution Chemicals Ltd) (product),1,20210708
+Corticosteroid,SNOMED,15092911000001100,Hydrocortisone 20mg tablets (Sigma Pharmaceuticals Plc) (product),1,20210708
+Corticosteroid,SNOMED,29837011000001103,Hydrocortisone 20mg tablets (Sovereign Medical Ltd) (product),1,20210708
+Corticosteroid,SNOMED,18394311000001100,Hydrocortisone 20mg tablets (Teva UK Ltd) (product),1,20210708
+Corticosteroid,SNOMED,13807011000001108,Hydrocortisone 20mg tablets (UniChem Ltd) (product),1,20210708
+Corticosteroid,SNOMED,22044611000001109,Hydrocortisone 20mg tablets (Waymade Healthcare Plc) (product),1,20210708
+Corticosteroid,SNOMED,706611000001109,Hydrocortone 20mg tablets (Merck Sharp & Dohme Ltd) (product),1,20210708
+Corticosteroid,SNOMED,36917511000001101,Hydventia 20mg tablets (OcXia) (product),1,20210708
+Corticosteroid,SNOMED,325373001,Product containing precisely hydrocortisone 10 milligram/1 each conventional release oral tablet (clinical drug),1,20210708
+Corticosteroid,SNOMED,13614311000001105,Hydrocortisone 10mg tablets (A A H Pharmaceuticals Ltd) (product),1,20210708
+Corticosteroid,SNOMED,32711611000001102,Hydrocortisone 10mg tablets (Alissa Healthcare Research Ltd) (product),1,20210708
+Corticosteroid,SNOMED,17973911000001105,Hydrocortisone 10mg tablets (Almus Pharmaceuticals Ltd) (product),1,20210708
+Corticosteroid,SNOMED,33423211000001105,Hydrocortisone 10mg tablets (AMCo) (product),1,20210708
+Corticosteroid,SNOMED,13661711000001105,Hydrocortisone 10mg tablets (Auden McKenzie (Pharma Division) Ltd) (product),1,20210708
+Corticosteroid,SNOMED,34616211000001108,Hydrocortisone 10mg tablets (Bristol Laboratories Ltd) (product),1,20210708
+Corticosteroid,SNOMED,24154111000001101,Hydrocortisone 10mg tablets (DE Pharmaceuticals) (product),1,20210708
+Corticosteroid,SNOMED,18580411000001102,Hydrocortisone 10mg tablets (Doncaster Pharmaceuticals Ltd) (product),1,20210708
+Corticosteroid,SNOMED,35108911000001105,Hydrocortisone 10mg tablets (Flynn Pharma Ltd) (product),1,20210708
+Corticosteroid,SNOMED,34957811000001100,Hydrocortisone 10mg tablets (Genesis Pharmaceuticals Ltd) (product),1,20210708
+Corticosteroid,SNOMED,37126311000001101,Hydrocortisone 10mg tablets (Mawdsley-Brooks & Company Ltd) (product),1,20210708
+Corticosteroid,SNOMED,38946111000001108,Hydrocortisone 10mg tablets (Medihealth (Northern) Ltd) (product),1,20210708
+Corticosteroid,SNOMED,38070711000001101,Hydrocortisone 10mg tablets (Mibe Pharma UK Ltd) (product),1,20210708
+Corticosteroid,SNOMED,37494211000001109,Hydrocortisone 10mg tablets (NorthStar Healthcare Unlimited Company) (product),1,20210708
+Corticosteroid,SNOMED,17930211000001109,Hydrocortisone 10mg tablets (Phoenix Healthcare Distribution Ltd) (product),1,20210708
+Corticosteroid,SNOMED,16504111000001108,Hydrocortisone 10mg tablets (PI) (Mawdsley-Brooks & Company Ltd) (product),1,20210708
+Corticosteroid,SNOMED,17559811000001109,Hydrocortisone 10mg tablets (PI) (Sigma Pharmaceuticals Plc) (product),1,20210708
+Corticosteroid,SNOMED,36508411000001105,Hydrocortisone 10mg tablets (Resolution Chemicals Ltd) (product),1,20210708
+Corticosteroid,SNOMED,15092711000001102,Hydrocortisone 10mg tablets (Sigma Pharmaceuticals Plc) (product),1,20210708
+Corticosteroid,SNOMED,18392311000001107,Hydrocortisone 10mg tablets (Teva UK Ltd) (product),1,20210708
+Corticosteroid,SNOMED,13806811000001104,Hydrocortisone 10mg tablets (UniChem Ltd) (product),1,20210708
+Corticosteroid,SNOMED,22044411000001106,Hydrocortisone 10mg tablets (Waymade Healthcare Plc) (product),1,20210708
+Corticosteroid,SNOMED,197211000001101,Hydrocortone 10mg tablets (Merck Sharp & Dohme Ltd) (product),1,20210708
+Corticosteroid,SNOMED,36917711000001106,Hydventia 10mg tablets (OcXia) (product),1,20210708
+Corticosteroid,SNOMED,28422811000001103,Hydrocortisone 5mg/5ml oral solution (product),1,20210708
+Corticosteroid,SNOMED,12555511000001106,Hydrocortisone 6mg/5ml oral suspension (product),1,20210708
+Corticosteroid,SNOMED,12540711000001109,Hydrocortisone 1mg/5ml oral suspension (product),1,20210708
+Corticosteroid,SNOMED,12541011000001103,Hydrocortisone 2mg/5ml oral suspension (product),1,20210708
+Corticosteroid,SNOMED,785096006,Product containing precisely hydrocortisone 2 milligram/1 milliliter conventional release oral suspension (clinical drug),1,20210708
+Corticosteroid,SNOMED,8581611000001105,Hydrocortisone 5mg/5ml oral suspension (product),1,20210708
+Corticosteroid,SNOMED,12554911000001103,Hydrocortisone 3mg/5ml oral suspension,1,20210708
+Corticosteroid,SNOMED,12555111000001102,Hydrocortisone 4mg/5ml oral suspension,1,20210708
+Corticosteroid,SNOMED,12563811000001104,Hydrocortisone 7mg/5ml oral suspension,1,20210708
+Corticosteroid,SNOMED,12554811000001108,Hydrocortisone 30mg/5ml oral suspension,1,20210708
+Corticosteroid,SNOMED,12563711000001107,Hydrocortisone 75mg/5ml oral suspension,1,20210708
+Corticosteroid,SNOMED,8581411000001107,Hydrocortisone 20mg/5ml oral suspension,1,20210708
+Corticosteroid,SNOMED,8581511000001106,Hydrocortisone 25mg/5ml oral suspension,1,20210708
+Corticosteroid,SNOMED,12540611000001100,Hydrocortisone 18mg/5ml oral suspension,1,20210708
+Corticosteroid,SNOMED,12555211000001108,Hydrocortisone 50mg/5ml oral suspension,1,20210708
+Corticosteroid,SNOMED,8581111000001102,Hydrocortisone 10mg/5ml oral suspension,1,20210708
+Corticosteroid,SNOMED,8581311000001100,Hydrocortisone 2.5mg/5ml oral suspension,1,20210708
+Corticosteroid,SNOMED,12540311000001105,Hydrocortisone 1.5mg/5ml oral suspension,1,20210708
+Corticosteroid,SNOMED,12563611000001103,Hydrocortisone 7.5mg/5ml oral suspension,1,20210708
+Corticosteroid,SNOMED,12540411000001103,Hydrocortisone 100mg/5ml oral suspension,1,20210708
+Corticosteroid,SNOMED,12540811000001101,Hydrocortisone 2.6mg/5ml oral suspension,1,20210708
+Corticosteroid,SNOMED,12554611000001109,Hydrocortisone 3.6mg/5ml oral suspension,1,20210708
+Corticosteroid,SNOMED,12555411000001107,Hydrocortisone 6.25mg/5ml oral suspension,1,20210708
+Corticosteroid,SNOMED,12555011000001103,Hydrocortisone 4.25mg/5ml oral suspension,1,20210708
+Corticosteroid,SNOMED,12554711000001100,Hydrocortisone 3.75mg/5ml oral suspension,1,20210708
+Corticosteroid,SNOMED,8581211000001108,Hydrocortisone 12.5mg/5ml oral suspension,1,20210708
+Corticosteroid,SNOMED,28418611000001106,Hydrocortisone 5mg/5ml oral solution 1 ml,1,20210708
+Corticosteroid,SNOMED,12540511000001104,Hydrocortisone 13.95mg/5ml oral suspension,1,20210708
+Corticosteroid,SNOMED,12529811000001108,Hydrocortisone 1mg/5ml oral suspension 1 ml,1,20210708
+Corticosteroid,SNOMED,12558311000001109,Hydrocortisone 7mg/5ml oral suspension 1 ml,1,20210708
+Corticosteroid,SNOMED,8531711000001108,Hydrocortisone 5mg/5ml oral suspension 1 ml,1,20210708
+Corticosteroid,SNOMED,12552711000001105,Hydrocortisone 4mg/5ml oral suspension 1 ml,1,20210708
+Corticosteroid,SNOMED,12552111000001109,Hydrocortisone 3mg/5ml oral suspension 1 ml,1,20210708
+Corticosteroid,SNOMED,12530911000001107,Hydrocortisone 2mg/5ml oral suspension 1 ml,1,20210708
+Corticosteroid,SNOMED,12553911000001100,Hydrocortisone 6mg/5ml oral suspension 1 ml,1,20210708
+Corticosteroid,SNOMED,12551811000001106,Hydrocortisone 30mg/5ml oral suspension 1 ml,1,20210708
+Corticosteroid,SNOMED,12529511000001105,Hydrocortisone 18mg/5ml oral suspension 1 ml,1,20210708
+Corticosteroid,SNOMED,8531011000001106,Hydrocortisone 25mg/5ml oral suspension 1 ml,1,20210708
+Corticosteroid,SNOMED,12553311000001101,Hydrocortisone 50mg/5ml oral suspension 1 ml,1,20210708
+Corticosteroid,SNOMED,8532011000001103,Hydrocortisone 10mg/5ml oral suspension 1 ml,1,20210708
+Corticosteroid,SNOMED,8533011000001107,Hydrocortisone 20mg/5ml oral suspension 1 ml,1,20210708
+Corticosteroid,SNOMED,12555911000001104,Hydrocortisone 75mg/5ml oral suspension 1 ml,1,20210708
+Corticosteroid,SNOMED,12551211000001105,Hydrocortisone 3.6mg/5ml oral suspension 1 ml,1,20210708
+Corticosteroid,SNOMED,12528411000001103,Hydrocortisone 1.5mg/5ml oral suspension 1 ml,1,20210708
+Corticosteroid,SNOMED,12563611000001103,Hydrocortisone 7.5mg/5ml oral suspension (product),1,20210708
+Corticosteroid,SNOMED,12540411000001103,Hydrocortisone 100mg/5ml oral suspension,1,20210708
+Corticosteroid,SNOMED,12540811000001101,Hydrocortisone 2.6mg/5ml oral suspension,1,20210708
+Corticosteroid,SNOMED,12554611000001109,Hydrocortisone 3.6mg/5ml oral suspension (product),1,20210708
+Corticosteroid,SNOMED,12555411000001107,Hydrocortisone 6.25mg/5ml oral suspension,1,20210708
+Corticosteroid,SNOMED,12555011000001103,Hydrocortisone 4.25mg/5ml oral suspension,1,20210708
+Corticosteroid,SNOMED,12554711000001100,Hydrocortisone 3.75mg/5ml oral suspension,1,20210708
+Corticosteroid,SNOMED,8581211000001108,Hydrocortisone 12.5mg/5ml oral suspension,1,20210708
+Corticosteroid,SNOMED,28418611000001106,Hydrocortisone 5mg/5ml oral solution 1 ml,1,20210708
+Corticosteroid,SNOMED,12540511000001104,Hydrocortisone 13.95mg/5ml oral suspension,1,20210708
+Corticosteroid,SNOMED,12529811000001108,Hydrocortisone 1mg/5ml oral suspension 1 ml,1,20210708
+Corticosteroid,SNOMED,12558311000001109,Hydrocortisone 7mg/5ml oral suspension 1 ml,1,20210708
+Corticosteroid,SNOMED,8531711000001108,Hydrocortisone 5mg/5ml oral suspension 1 ml,1,20210708
+Corticosteroid,SNOMED,12552711000001105,Hydrocortisone 4mg/5ml oral suspension 1 ml,1,20210708
+Corticosteroid,SNOMED,12552111000001109,Hydrocortisone 3mg/5ml oral suspension 1 ml,1,20210708
+Corticosteroid,SNOMED,12530911000001107,Hydrocortisone 2mg/5ml oral suspension 1 ml,1,20210708
+Corticosteroid,SNOMED,12553911000001100,Hydrocortisone 6mg/5ml oral suspension 1 ml,1,20210708
+Corticosteroid,SNOMED,12551811000001106,Hydrocortisone 30mg/5ml oral suspension 1 ml,1,20210708
+Corticosteroid,SNOMED,12529511000001105,Hydrocortisone 18mg/5ml oral suspension 1 ml,1,20210708
+Corticosteroid,SNOMED,8531011000001106,Hydrocortisone 25mg/5ml oral suspension 1 ml,1,20210708
+Corticosteroid,SNOMED,12553311000001101,Hydrocortisone 50mg/5ml oral suspension 1 ml,1,20210708
+Corticosteroid,SNOMED,8532011000001103,Hydrocortisone 10mg/5ml oral suspension 1 ml,1,20210708
+Corticosteroid,SNOMED,8533011000001107,Hydrocortisone 20mg/5ml oral suspension 1 ml,1,20210708
+Corticosteroid,SNOMED,12555911000001104,Hydrocortisone 75mg/5ml oral suspension 1 ml,1,20210708
+Corticosteroid,SNOMED,12551211000001105,Hydrocortisone 3.6mg/5ml oral suspension 1 ml,1,20210708
+Corticosteroid,SNOMED,12528411000001103,Hydrocortisone 1.5mg/5ml oral suspension 1 ml,1,20210708
+Corticosteroid,SNOMED,8532211000001108,Hydrocortisone 2.5mg/5ml oral suspension 1 ml,1,20210708
+Corticosteroid,SNOMED,21315711000001109,Hydrocortisone 5mg/5ml oral suspension 100 ml,1,20210708
+Corticosteroid,SNOMED,12528711000001109,Hydrocortisone 100mg/5ml oral suspension 1 ml,1,20210708
+Corticosteroid,SNOMED,12555611000001105,Hydrocortisone 7.5mg/5ml oral suspension 1 ml,1,20210708
+Corticosteroid,SNOMED,12530111000001109,Hydrocortisone 2.6mg/5ml oral suspension 1 ml,1,20210708
+Corticosteroid,SNOMED,21390311000001104,Hydrocortisone 10mg/5ml oral suspension 100 ml,1,20210708
+Corticosteroid,SNOMED,12553611000001106,Hydrocortisone 6.25mg/5ml oral suspension 1 ml,1,20210708
+Corticosteroid,SNOMED,28422811000001103,Hydrocortisone 5mg/5ml oral solution (product),1,20210708
+Corticosteroid,SNOMED,12551511000001108,Hydrocortisone 3.75mg/5ml oral suspension 1 ml,1,20210708
+Corticosteroid,SNOMED,8533311000001105,Hydrocortisone 12.5mg/5ml oral suspension 1 ml,1,20210708
+Corticosteroid,SNOMED,12552411000001104,Hydrocortisone 4.25mg/5ml oral suspension 1 ml,1,20210708
+Corticosteroid,SNOMED,12529211000001107,Hydrocortisone 13.95mg/5ml oral suspension 1 ml,1,20210708
+Corticosteroid,SNOMED,12563911000001109,Hydrocortisone 85micrograms/5ml oral suspension,1,20210708
+Corticosteroid,SNOMED,12555311000001100,Hydrocortisone 50micrograms/5ml oral suspension,1,20210708
+Corticosteroid,SNOMED,12554911000001103,Hydrocortisone 3mg/5ml oral suspension (product),1,20210708
+Corticosteroid,SNOMED,12540911000001106,Hydrocortisone 250micrograms/5ml oral suspension,1,20210708
+Corticosteroid,SNOMED,12540711000001109,Hydrocortisone 1mg/5ml oral suspension (product),1,20210708
+Corticosteroid,SNOMED,8581611000001105,Hydrocortisone 5mg/5ml oral suspension (product),1,20210708
+Corticosteroid,SNOMED,12555111000001102,Hydrocortisone 4mg/5ml oral suspension (product),1,20210708
+Corticosteroid,SNOMED,12541011000001103,Hydrocortisone 2mg/5ml oral suspension (product),1,20210708
+Corticosteroid,SNOMED,12563811000001104,Hydrocortisone 7mg/5ml oral suspension (product),1,20210708
+Corticosteroid,SNOMED,12555511000001106,Hydrocortisone 6mg/5ml oral suspension (product),1,20210708
+Corticosteroid,SNOMED,12540611000001100,Hydrocortisone 18mg/5ml oral suspension (product),1,20210708
+Corticosteroid,SNOMED,12563711000001107,Hydrocortisone 75mg/5ml oral suspension (product),1,20210708
+Corticosteroid,SNOMED,8581111000001102,Hydrocortisone 10mg/5ml oral suspension (product),1,20210708
+Corticosteroid,SNOMED,12555211000001108,Hydrocortisone 50mg/5ml oral suspension (product),1,20210708
+Corticosteroid,SNOMED,20093511000001108,Hydrocortisone 5mg/5ml oral suspension sugar free (product),1,20210708
+Corticosteroid,SNOMED,8581511000001106,Hydrocortisone 25mg/5ml oral suspension (product),1,20210708
+Corticosteroid,SNOMED,12554811000001108,Hydrocortisone 30mg/5ml oral suspension (product),1,20210708
+Corticosteroid,SNOMED,8581411000001107,Hydrocortisone 20mg/5ml oral suspension (product),1,20210708
+Corticosteroid,SNOMED,12540811000001101,Hydrocortisone 2.6mg/5ml oral suspension (product),1,20210708
+Corticosteroid,SNOMED,12563611000001103,Hydrocortisone 7.5mg/5ml oral suspension (product),1,20210708
+Corticosteroid,SNOMED,8581311000001100,Hydrocortisone 2.5mg/5ml oral suspension (product),1,20210708
+Corticosteroid,SNOMED,12554611000001109,Hydrocortisone 3.6mg/5ml oral suspension (product),1,20210708
+Corticosteroid,SNOMED,12540311000001105,Hydrocortisone 1.5mg/5ml oral suspension (product),1,20210708
+Corticosteroid,SNOMED,12540411000001103,Hydrocortisone 100mg/5ml oral suspension (product),1,20210708
+Corticosteroid,SNOMED,12555011000001103,Hydrocortisone 4.25mg/5ml oral suspension (product),1,20210708
+Corticosteroid,SNOMED,350448001,Product containing hydrocortisone in oral dose form (medicinal product form),1,20210708
+Corticosteroid,SNOMED,8581211000001108,Hydrocortisone 12.5mg/5ml oral suspension (product),1,20210708
+Corticosteroid,SNOMED,12554711000001100,Hydrocortisone 3.75mg/5ml oral suspension (product),1,20210708
+Corticosteroid,SNOMED,12555411000001107,Hydrocortisone 6.25mg/5ml oral suspension (product),1,20210708
+Corticosteroid,SNOMED,28418611000001106,Hydrocortisone 5mg/5ml oral solution 1 ml (product),1,20210708
+Corticosteroid,SNOMED,28418711000001102,Hydrocortisone 5mg/5ml oral solution (Special Order) (product),1,20210708
+Corticosteroid,SNOMED,12540511000001104,Hydrocortisone 13.95mg/5ml oral suspension (product),1,20210708
+Corticosteroid,SNOMED,12558611000001104,Hydrocortisone 85micrograms/5ml oral suspension 1 ml (product),1,20210708
+Corticosteroid,SNOMED,12553011000001104,Hydrocortisone 50micrograms/5ml oral suspension 1 ml (product),1,20210708
+Corticosteroid,SNOMED,12553911000001100,Hydrocortisone 6mg/5ml oral suspension 1 ml (product),1,20210708
+Corticosteroid,SNOMED,12552711000001105,Hydrocortisone 4mg/5ml oral suspension 1 ml (product),1,20210708
+Corticosteroid,SNOMED,12529811000001108,Hydrocortisone 1mg/5ml oral suspension 1 ml (product),1,20210708
+Corticosteroid,SNOMED,12530911000001107,Hydrocortisone 2mg/5ml oral suspension 1 ml (product),1,20210708
+Corticosteroid,SNOMED,12552111000001109,Hydrocortisone 3mg/5ml oral suspension 1 ml (product),1,20210708
+Corticosteroid,SNOMED,8531711000001108,Hydrocortisone 5mg/5ml oral suspension 1 ml (product),1,20210708
+Corticosteroid,SNOMED,12558311000001109,Hydrocortisone 7mg/5ml oral suspension 1 ml (product),1,20210708
+Corticosteroid,SNOMED,12530411000001104,Hydrocortisone 250micrograms/5ml oral suspension 1 ml (product),1,20210708
+Corticosteroid,SNOMED,8532011000001103,Hydrocortisone 10mg/5ml oral suspension 1 ml (product),1,20210708
+Corticosteroid,SNOMED,12551811000001106,Hydrocortisone 30mg/5ml oral suspension 1 ml (product),1,20210708
+Corticosteroid,SNOMED,20092111000001105,Hydrocortisone 5mg/5ml oral suspension sugar free 1 ml (product),1,20210708
+Corticosteroid,SNOMED,8531011000001106,Hydrocortisone 25mg/5ml oral suspension 1 ml (product),1,20210708
+Corticosteroid,SNOMED,12529511000001105,Hydrocortisone 18mg/5ml oral suspension 1 ml (product),1,20210708
+Corticosteroid,SNOMED,12553311000001101,Hydrocortisone 50mg/5ml oral suspension 1 ml (product),1,20210708
+Corticosteroid,SNOMED,12555911000001104,Hydrocortisone 75mg/5ml oral suspension 1 ml (product),1,20210708
+Corticosteroid,SNOMED,8533011000001107,Hydrocortisone 20mg/5ml oral suspension 1 ml (product),1,20210708
+Corticosteroid,SNOMED,8532211000001108,Hydrocortisone 2.5mg/5ml oral suspension 1 ml (product),1,20210708
+Corticosteroid,SNOMED,21315711000001109,Hydrocortisone 5mg/5ml oral suspension 100 ml (product),1,20210708
+Corticosteroid,SNOMED,12528411000001103,Hydrocortisone 1.5mg/5ml oral suspension 1 ml (product),1,20210708
+Corticosteroid,SNOMED,12528711000001109,Hydrocortisone 100mg/5ml oral suspension 1 ml (product),1,20210708
+Corticosteroid,SNOMED,12551211000001105,Hydrocortisone 3.6mg/5ml oral suspension 1 ml (product),1,20210708
+Corticosteroid,SNOMED,12555611000001105,Hydrocortisone 7.5mg/5ml oral suspension 1 ml (product),1,20210708
+Corticosteroid,SNOMED,12530111000001109,Hydrocortisone 2.6mg/5ml oral suspension 1 ml (product),1,20210708
+Corticosteroid,SNOMED,20092211000001104,Hydrocortisone 5mg/5ml oral suspension sugar free 100 ml (product),1,20210708
+Corticosteroid,SNOMED,21390311000001104,Hydrocortisone 10mg/5ml oral suspension 100 ml (product),1,20210708
+Corticosteroid,SNOMED,12553611000001106,Hydrocortisone 6.25mg/5ml oral suspension 1 ml (product),1,20210708
+Corticosteroid,SNOMED,12551511000001108,Hydrocortisone 3.75mg/5ml oral suspension 1 ml (product),1,20210708
+Corticosteroid,SNOMED,8533311000001105,Hydrocortisone 12.5mg/5ml oral suspension 1 ml (product),1,20210708
+Corticosteroid,SNOMED,12552411000001104,Hydrocortisone 4.25mg/5ml oral suspension 1 ml (product),1,20210708
+Corticosteroid,SNOMED,12563911000001109,Hydrocortisone 85micrograms/5ml oral suspension (product),1,20210708
+Corticosteroid,SNOMED,12555311000001100,Hydrocortisone 50micrograms/5ml oral suspension (product),1,20210708
+Corticosteroid,SNOMED,12529211000001107,Hydrocortisone 13.95mg/5ml oral suspension 1 ml (product),1,20210708
+Corticosteroid,SNOMED,12540911000001106,Hydrocortisone 250micrograms/5ml oral suspension (product),1,20210708
+Corticosteroid,SNOMED,20093511000001108,Hydrocortisone 5mg/5ml oral suspension sugar free (product),1,20210708
+Corticosteroid,SNOMED,12553011000001104,Hydrocortisone 50micrograms/5ml oral suspension 1 ml (product),1,20210708
+Corticosteroid,SNOMED,12558611000001104,Hydrocortisone 85micrograms/5ml oral suspension 1 ml (product),1,20210708
+Corticosteroid,SNOMED,12530411000001104,Hydrocortisone 250micrograms/5ml oral suspension 1 ml (product),1,20210708
+Corticosteroid,SNOMED,20092111000001105,Hydrocortisone 5mg/5ml oral suspension sugar free 1 ml (product),1,20210708
+Corticosteroid,SNOMED,20092211000001104,Hydrocortisone 5mg/5ml oral suspension sugar free 100 ml (product),1,20210708
+Corticosteroid,SNOMED,20428711000001106,Hydrocortisone 1mg capsules (Special Order) (product),1,20210708
+Corticosteroid,SNOMED,15427611000001107,Hydrocortisone 2mg capsules (Special Order) (product),1,20210708
+Corticosteroid,SNOMED,28044511000001102,Hydrocortisone 4mg pastilles (Special Order) (product),1,20210708
+Corticosteroid,SNOMED,15524111000001100,Hydrocortisone 2.5mg capsules (Special Order) (product),1,20210708
+Corticosteroid,SNOMED,28418711000001102,Hydrocortisone 5mg/5ml oral solution (Special Order) (product),1,20210708
+Corticosteroid,SNOMED,15427811000001106,Hydrocortisone 2mg capsules (Special Order) 1 capsule (product),1,20210708
+Corticosteroid,SNOMED,20428711000001106,Hydrocortisone 1mg capsules (Special Order) (product),1,20210708
+Corticosteroid,SNOMED,20428911000001108,Hydrocortisone 1mg capsules (Special Order) 1 capsule (product),1,20210708
+Corticosteroid,SNOMED,15427611000001107,Hydrocortisone 2mg capsules (Special Order) (product),1,20210708
+Corticosteroid,SNOMED,12552211000001103,Hydrocortisone 3mg/5ml oral suspension (Special Order) (product),1,20210708
+Corticosteroid,SNOMED,12529911000001103,Hydrocortisone 1mg/5ml oral suspension (Special Order) (product),1,20210708
+Corticosteroid,SNOMED,12531011000001104,Hydrocortisone 2mg/5ml oral suspension (Special Order) (product),1,20210708
+Corticosteroid,SNOMED,12552811000001102,Hydrocortisone 4mg/5ml oral suspension (Special Order) (product),1,20210708
+Corticosteroid,SNOMED,28044511000001102,Hydrocortisone 4mg pastilles (Special Order) (product),1,20210708
+Corticosteroid,SNOMED,12558411000001102,Hydrocortisone 7mg/5ml oral suspension (Special Order) (product),1,20210708
+Corticosteroid,SNOMED,12554011000001102,Hydrocortisone 6mg/5ml oral suspension (Special Order) (product),1,20210708
+Corticosteroid,SNOMED,28044611000001103,Hydrocortisone 4mg pastilles (Special Order) 1 pastille (product),1,20210708
+Corticosteroid,SNOMED,15524211000001106,Hydrocortisone 2.5mg capsules (Special Order) 1 capsule (product),1,20210708
+Corticosteroid,SNOMED,8531111000001107,Hydrocortisone 25mg/5ml oral suspension (Special Order) (product),1,20210708
+Corticosteroid,SNOMED,15524111000001100,Hydrocortisone 2.5mg capsules (Special Order) (product),1,20210708
+Corticosteroid,SNOMED,8533211000001102,Hydrocortisone 20mg/5ml oral suspension (Special Order) (product),1,20210708
+Corticosteroid,SNOMED,12551911000001101,Hydrocortisone 30mg/5ml oral suspension (Special Order) (product),1,20210708
+Corticosteroid,SNOMED,12556011000001107,Hydrocortisone 75mg/5ml oral suspension (Special Order) (product),1,20210708
+Corticosteroid,SNOMED,12529611000001109,Hydrocortisone 18mg/5ml oral suspension (Special Order),1,20210708
+Corticosteroid,SNOMED,12553411000001108,Hydrocortisone 50mg/5ml oral suspension (Special Order),1,20210708
+Corticosteroid,SNOMED,12551311000001102,Hydrocortisone 3.6mg/5ml oral suspension (Special Order),1,20210708
+Corticosteroid,SNOMED,12530211000001103,Hydrocortisone 2.6mg/5ml oral suspension (Special Order),1,20210708
+Corticosteroid,SNOMED,12528511000001104,Hydrocortisone 1.5mg/5ml oral suspension (Special Order),1,20210708
+Corticosteroid,SNOMED,12555711000001101,Hydrocortisone 7.5mg/5ml oral suspension (Special Order),1,20210708
+Corticosteroid,SNOMED,12528911000001106,Hydrocortisone 100mg/5ml oral suspension (Special Order),1,20210708
+Corticosteroid,SNOMED,8532411000001107,Hydrocortisone 2.5mg/5ml oral suspension (Special Order),1,20210708
+Corticosteroid,SNOMED,12553711000001102,Hydrocortisone 6.25mg/5ml oral suspension (Special Order),1,20210708
+Corticosteroid,SNOMED,12551611000001107,Hydrocortisone 3.75mg/5ml oral suspension (Special Order),1,20210708
+Corticosteroid,SNOMED,8533511000001104,Hydrocortisone 12.5mg/5ml oral suspension (Special Order),1,20210708
+Corticosteroid,SNOMED,28418811000001105,Hydrocortisone 5mg/5ml oral solution (Special Order) 1 ml (product),1,20210708
+Corticosteroid,SNOMED,12552511000001100,Hydrocortisone 4.25mg/5ml oral suspension (Special Order) (product),1,20210708
+Corticosteroid,SNOMED,12529311000001104,Hydrocortisone 13.95mg/5ml oral suspension (Special Order) (product),1,20210708
+Corticosteroid,SNOMED,16017911000001100,Hydrocortisone 1mg suppositories (Special Order) (product),1,20210708
+Corticosteroid,SNOMED,12531111000001103,Hydrocortisone 2mg/5ml oral suspension (Special Order) 1 ml (product),1,20210708
+Corticosteroid,SNOMED,12552911000001107,Hydrocortisone 4mg/5ml oral suspension (Special Order) 1 ml (product),1,20210708
+Corticosteroid,SNOMED,12558511000001103,Hydrocortisone 7mg/5ml oral suspension (Special Order) 1 ml (product),1,20210708
+Corticosteroid,SNOMED,12552311000001106,Hydrocortisone 3mg/5ml oral suspension (Special Order) 1 ml (product),1,20210708
+Corticosteroid,SNOMED,12530011000001108,Hydrocortisone 1mg/5ml oral suspension (Special Order) 1 ml (product),1,20210708
+Corticosteroid,SNOMED,12554111000001101,Hydrocortisone 6mg/5ml oral suspension (Special Order) 1 ml (product),1,20210708
+Corticosteroid,SNOMED,12552011000001108,Hydrocortisone 30mg/5ml oral suspension (Special Order) 1 ml (product),1,20210708
+Corticosteroid,SNOMED,12553511000001107,Hydrocortisone 50mg/5ml oral suspension (Special Order) 1 ml (product),1,20210708
+Corticosteroid,SNOMED,12556111000001108,Hydrocortisone 75mg/5ml oral suspension (Special Order) 1 ml (product),1,20210708
+Corticosteroid,SNOMED,12529711000001100,Hydrocortisone 18mg/5ml oral suspension (Special Order) 1 ml (product),1,20210708
+Corticosteroid,SNOMED,8531311000001109,Hydrocortisone 25mg/5ml oral suspension (Special Order) 1 ml (product),1,20210708
+Corticosteroid,SNOMED,8533611000001100,Hydrocortisone 20mg/5ml oral suspension (Special Order) 1 ml (product),1,20210708
+Corticosteroid,SNOMED,8532511000001106,Hydrocortisone 2.5mg/5ml oral suspension (Special Order) 1 ml (product),1,20210708
+Corticosteroid,SNOMED,12551411000001109,Hydrocortisone 3.6mg/5ml oral suspension (Special Order) 1 ml (product),1,20210708
+Corticosteroid,SNOMED,12528611000001100,Hydrocortisone 1.5mg/5ml oral suspension (Special Order) 1 ml (product),1,20210708
+Corticosteroid,SNOMED,12529111000001101,Hydrocortisone 100mg/5ml oral suspension (Special Order) 1 ml (product),1,20210708
+Corticosteroid,SNOMED,12530311000001106,Hydrocortisone 2.6mg/5ml oral suspension (Special Order) 1 ml (product),1,20210708
+Corticosteroid,SNOMED,12555811000001109,Hydrocortisone 7.5mg/5ml oral suspension (Special Order) 1 ml (product),1,20210708
+Corticosteroid,SNOMED,28418711000001102,Hydrocortisone 5mg/5ml oral solution (Special Order) (product),1,20210708
+Corticosteroid,SNOMED,12551711000001103,Hydrocortisone 3.75mg/5ml oral suspension (Special Order) 1 ml (product),1,20210708
+Corticosteroid,SNOMED,12553811000001105,Hydrocortisone 6.25mg/5ml oral suspension (Special Order) 1 ml (product),1,20210708
+Corticosteroid,SNOMED,373982003,Product containing precisely hydrocortisone 5 milligram/1 each conventional release oral tablet (clinical drug),1,20210708
+Corticosteroid,SNOMED,785096006,Product containing precisely hydrocortisone 2 milligram/1 milliliter conventional release oral suspension (clinical drug),1,20210708
+Corticosteroid,SNOMED,6215001000027100,Cortelan 25 mg tablet (from CPRD product.txt),1,20210708
+Corticosteroid,SNOMED,6255001000027100,CORTISTAB tablets 25mg [WAYMADE]  (from CPRD product.txt),1,20210708
+Corticosteroid,SNOMED,6245001000027100,CORTISTAB tablets 5mg [WAYMADE]  (from CPRD product.txt),1,20210708
+Corticosteroid,SNOMED,6285001000027100,Cortisyl 25mg Abentis (from CPRD product.txt),1,20210708
+Corticosteroid,SNOMED,9230701000001107,Calcort (product),1,20210708
+Corticosteroid,SNOMED,3756411000001107,Calcort 6mg tablets (Sanofi),1,20210708
+Corticosteroid,SNOMED,30020511000001109,Calcort 6mg tablets (Lexon (UK) Ltd) (product),1,20210708
+Corticosteroid,SNOMED,30269811000001102,Calcort 6mg tablets (Waymade Healthcare Plc) (product),1,20210708
+Corticosteroid,SNOMED,30020611000001108,Calcort 6mg tablets (Lexon (UK) Ltd) 60 tablet (product),1,20210708
+Corticosteroid,SNOMED,30020511000001109,Calcort 6mg tablets (Lexon (UK) Ltd) (product),1,20210708
+Corticosteroid,SNOMED,3850711000001101,Calcort 1mg tablets (Shire Pharmaceuticals Ltd) (product),1,20210708
+Corticosteroid,SNOMED,3756611000001105,Calcort 6mg tablets (Shire Pharmaceuticals Ltd) 60 tablet 6 x 10 tablets (product),1,20210708
+Corticosteroid,SNOMED,30269911000001107,Calcort 6mg tablets (Waymade Healthcare Plc) 60 tablet (product),1,20210708
+Corticosteroid,SNOMED,30269811000001102,Calcort 6mg tablets (Waymade Healthcare Plc) (product),1,20210708
+Corticosteroid,SNOMED,30020611000001108,Calcort 6mg tablets (Lexon (UK) Ltd) 60 tablet (product),1,20210708
+Corticosteroid,SNOMED,3850711000001101,Calcort 1mg tablets (Shire Pharmaceuticals Ltd) (product),1,20210708
+Corticosteroid,SNOMED,3756411000001107,Calcort 6mg tablets (Shire Pharmaceuticals Ltd) (product),1,20210708
+Corticosteroid,SNOMED,3960211000001106,Calcort 30mg tablets (Shire Pharmaceuticals Ltd) (product),1,20210708
+Corticosteroid,SNOMED,30269911000001107,Calcort 6mg tablets (Waymade Healthcare Plc) 60 tablet (product),1,20210708
+Corticosteroid,SNOMED,3960411000001105,Calcort 30mg tablets (Shire Pharmaceuticals Ltd) 30 tablet 3 x 10 tablets (product),1,20210708
+Corticosteroid,SNOMED,3850911000001104,Calcort 1mg tablets (Shire Pharmaceuticals Ltd) 100 tablet 10 x 10 tablets (product),1,20210708
+Corticosteroid,SNOMED,3756611000001105,Calcort 6mg tablets (Shire Pharmaceuticals Ltd) 60 tablet 6 x 10 tablets (product),1,20210708
+Corticosteroid,SNOMED,3960411000001105,Calcort 30mg tablets (Shire Pharmaceuticals Ltd) 30 tablet 3 x 10 tablets (product),1,20210708
+Corticosteroid,SNOMED,3850911000001104,Calcort 1mg tablets (Shire Pharmaceuticals Ltd) 100 tablet 10 x 10 tablets (product),1,20210708
+Corticosteroid,SNOMED,116578002,Product containing deflazacort (medicinal product),1,20210708
+Corticosteroid,SNOMED,325476008,Product containing precisely deflazacort 1 milligram/1 each conventional release oral tablet (clinical drug),1,20210708
+Corticosteroid,SNOMED,325472005,Product containing precisely deflazacort 6 milligram/1 each conventional release oral tablet (clinical drug),1,20210708
+Corticosteroid,SNOMED,325474006,Product containing precisely deflazacort 30 milligram/1 each conventional release oral tablet (clinical drug),1,20210708
+Corticosteroid,SNOMED,325476008,Product containing precisely deflazacort 1 milligram/1 each conventional release oral tablet (clinical drug),1,20210708
+Corticosteroid,SNOMED,325472005,Product containing precisely deflazacort 6 milligram/1 each conventional release oral tablet (clinical drug),1,20210708
+Corticosteroid,SNOMED,325474006,Product containing precisely deflazacort 30 milligram/1 each conventional release oral tablet (clinical drug),1,20210708
+Corticosteroid,SNOMED,15449711000001109,Deflazacort 1mg tablets 1 tablet (product),1,20210708
+Corticosteroid,SNOMED,3756211000001108,Deflazacort 6mg tablets 60 tablet (product),1,20210708
+Corticosteroid,SNOMED,3960011000001101,Deflazacort 30mg tablets 30 tablet (product),1,20210708
+Corticosteroid,SNOMED,3850611000001105,Deflazacort 1mg tablets 100 tablet (product),1,20210708
+Corticosteroid,SNOMED,15449611000001100,Deflazacort 1mg tablets (Special Order) (product),1,20210708
+Corticosteroid,SNOMED,33037911000001102,Deflazacort 22.75mg/1ml oral suspension (product),1,20210708
+Corticosteroid,SNOMED,33037911000001102,Deflazacort 22.75mg/1ml oral suspension (product),1,20210708
+Corticosteroid,SNOMED,15449711000001109,Deflazacort 1mg tablets 1 tablet (product),1,20210708
+Corticosteroid,SNOMED,778928005,Product containing only deflazacort in oral dose form (medicinal product form),1,20210708
+Corticosteroid,SNOMED,3756211000001108,Deflazacort 6mg tablets 60 tablet (product),1,20210708
+Corticosteroid,SNOMED,3850611000001105,Deflazacort 1mg tablets 100 tablet (product),1,20210708
+Corticosteroid,SNOMED,32989411000001106,Deflazacort 22.75mg/1ml oral suspension 1 ml (product),1,20210708
+Corticosteroid,SNOMED,3960011000001101,Deflazacort 30mg tablets 30 tablet (product),1,20210708
+Corticosteroid,SNOMED,15449811000001101,Deflazacort 1mg tablets (Special Order) 1 tablet (product),1,20210708
+Corticosteroid,SNOMED,767955000,Product containing deflazacort in oral dose form (medicinal product form),1,20210708
+Corticosteroid,SNOMED,15449611000001100,Deflazacort 1mg tablets (Special Order) (product),1,20210708
+Corticosteroid,SNOMED,33037911000001102,Deflazacort 22.75mg/1ml oral suspension (product),1,20210708
+Corticosteroid,SNOMED,32989411000001106,Deflazacort 22.75mg/1ml oral suspension 1 ml (product),1,20210708
+Corticosteroid,SNOMED,32989611000001109,Deflazacort 22.75mg/1ml oral suspension (Special Order) (product),1,20210708
+Corticosteroid,SNOMED,15449811000001101,Deflazacort 1mg tablets (Special Order) 1 tablet (product),1,20210708
+Corticosteroid,SNOMED,32989711000001100,Deflazacort 22.75mg/1ml oral suspension (Special Order) 1 ml,1,20210708
+Corticosteroid,SNOMED,32989611000001109,Deflazacort 22.75mg/1ml oral suspension (Special Order) (product),1,20210708
+Corticosteroid,SNOMED,32989711000001100,Deflazacort 22.75mg/1ml oral suspension (Special Order) 1 ml (product),1,20210708
+Corticosteroid,SNOMED,767955000,Product containing deflazacort in oral dose form (medicinal product form),1,20210708
+Corticosteroid,SNOMED,778928005,Product containing only deflazacort in oral dose form (medicinal product form),1,20210708
+Corticosteroid,SNOMED,325476008,Product containing precisely deflazacort 1 milligram/1 each conventional release oral tablet (clinical drug),1,20210708
+Corticosteroid,SNOMED,325472005,Product containing precisely deflazacort 6 milligram/1 each conventional release oral tablet (clinical drug),1,20210708
+Corticosteroid,SNOMED,325474006,Product containing precisely deflazacort 30 milligram/1 each conventional release oral tablet (clinical drug),1,20210708
+Corticosteroid,SNOMED,9254701000001101,Decadron (product),1,20210708
+Corticosteroid,SNOMED,39013111000001100,Decadron 4mg tablets (CST Pharma Ltd) (product),1,20210708
+Corticosteroid,SNOMED,39013311000001103,Decadron 500microgram tablets (CST Pharma Ltd) (product),1,20210708
+Corticosteroid,SNOMED,39013211000001106,Decadron 4mg tablets (CST Pharma Ltd) 50 tablet (product),1,20210708
+Corticosteroid,SNOMED,3286911000001103,Decadron 500microgram tablets (Organon Pharma (UK) Ltd) (product),1,20210708
+Corticosteroid,SNOMED,39013411000001105,Decadron 500microgram tablets (CST Pharma Ltd) 30 tablet (product),1,20210708
+Corticosteroid,SNOMED,3287311000001101,Decadron 500microgram tablets (Organon Pharma (UK) Ltd) 30 tablet 3 x 10 tablets (product),1,20210708
+Corticosteroid,SNOMED,778957009,Product containing only dexamethasone in oral dose form (medicinal product form),1,20210708
+Corticosteroid,SNOMED,766473001,Product containing precisely dexamethasone (as dexamethasone sodium phosphate) 400 microgram/1 milliliter conventional release oral solution (clinical drug),1,20210708
+Corticosteroid,SNOMED,412334007,Product containing precisely dexamethasone 1.5 milligram/1 each conventional release oral tablet (clinical drug),1,20210708
+Corticosteroid,SNOMED,325365005,Product containing precisely dexamethasone 100 microgram/1 milliliter conventional release oral solution (clinical drug),1,20210708
+Corticosteroid,SNOMED,8433011000001100,Dexamethasone 500micrograms/5ml oral solution (Special Order) (product),1,20210708
+Corticosteroid,SNOMED,325356003,Product containing precisely dexamethasone 2 milligram/1 each conventional release oral tablet (clinical drug),1,20210708
+Corticosteroid,SNOMED,3290311000001101,Dexamethasone 2mg tablets (A A H Pharmaceuticals Ltd) (product),1,20210708
+Corticosteroid,SNOMED,33634511000001106,Dexamethasone 2mg tablets (Accord Healthcare Ltd) (product),1,20210708
+Corticosteroid,SNOMED,17967911000001107,Dexamethasone 2mg tablets (Almus Pharmaceuticals Ltd) (product),1,20210708
+Corticosteroid,SNOMED,34045511000001104,Dexamethasone 2mg tablets (Aspire Pharma Ltd) (product),1,20210708
+Corticosteroid,SNOMED,15628711000001100,Dexamethasone 2mg tablets (Auden McKenzie (Pharma Division) Ltd) (product),1,20210708
+Corticosteroid,SNOMED,23968511000001105,Dexamethasone 2mg tablets (DE Pharmaceuticals) (product),1,20210708
+Corticosteroid,SNOMED,32404811000001106,Dexamethasone 2mg tablets (Kent Pharmaceuticals Ltd) (product),1,20210708
+Corticosteroid,SNOMED,37221211000001103,Dexamethasone 2mg tablets (Martindale Pharmaceuticals Ltd) (product),1,20210708
+Corticosteroid,SNOMED,30809411000001107,Dexamethasone 2mg tablets (Mawdsley-Brooks & Company Ltd) (product),1,20210708
+Corticosteroid,SNOMED,38867211000001104,Dexamethasone 2mg tablets (Medihealth (Northern) Ltd) (product),1,20210708
+Corticosteroid,SNOMED,3291411000001104,Dexamethasone 2mg tablets (Organon Laboratories Ltd) (product),1,20210708
+Corticosteroid,SNOMED,17890811000001109,Dexamethasone 2mg tablets (Phoenix Healthcare Distribution Ltd) (product),1,20210708
+Corticosteroid,SNOMED,15104911000001100,Dexamethasone 2mg tablets (Sigma Pharmaceuticals Plc) (product),1,20210708
+Corticosteroid,SNOMED,3292011000001100,Dexamethasone 2mg tablets (Unichem Plc) (product),1,20210708
+Corticosteroid,SNOMED,21925111000001105,Dexamethasone 2mg tablets (Waymade Healthcare Plc) (product),1,20210708
+Corticosteroid,SNOMED,412333001,Product containing precisely dexamethasone 250 microgram/1 each conventional release oral tablet (clinical drug),1,20210708
+Corticosteroid,SNOMED,376688006,Product containing precisely dexamethasone 4 milligram/1 each conventional release oral tablet (clinical drug),1,20210708
+Corticosteroid,SNOMED,33557411000001107,Dexamethasone 4mg tablets (A A H Pharmaceuticals Ltd) (product),1,20210708
+Corticosteroid,SNOMED,37628711000001102,Dexamethasone 4mg tablets (Advanz Pharma) (product),1,20210708
+Corticosteroid,SNOMED,34464111000001106,Dexamethasone 4mg tablets (Alliance Healthcare (Distribution) Ltd) (product),1,20210708
+Corticosteroid,SNOMED,33497811000001107,Dexamethasone 4mg tablets (Consilient Health Ltd) (product),1,20210708
+Corticosteroid,SNOMED,37743911000001104,Dexamethasone 4mg tablets (CST Pharma Ltd) (product),1,20210708
+Corticosteroid,SNOMED,37236811000001109,Dexamethasone 4mg tablets (DE Pharmaceuticals) (product),1,20210708
+Corticosteroid,SNOMED,38867411000001100,Dexamethasone 4mg tablets (Medihealth (Northern) Ltd) (product),1,20210708
+Corticosteroid,SNOMED,35560411000001105,Dexamethasone 4mg tablets (Teva UK Ltd) (product),1,20210708
+Corticosteroid,SNOMED,325355004,Product containing precisely dexamethasone 500 microgram/1 each conventional release oral tablet (clinical drug),1,20210708
+Corticosteroid,SNOMED,3286511000001105,Dexamethasone 500microgram tablets (A A H Pharmaceuticals Ltd) (product),1,20210708
+Corticosteroid,SNOMED,38039211000001104,Dexamethasone 500microgram tablets (Actavis UK Ltd) (product),1,20210708
+Corticosteroid,SNOMED,32064711000001105,Dexamethasone 500microgram tablets (Aspire Pharma Ltd) (product),1,20210708
+Corticosteroid,SNOMED,24672711000001108,Dexamethasone 500microgram tablets (Auden McKenzie (Pharma Division) Ltd) (product),1,20210708
+Corticosteroid,SNOMED,35477511000001105,Dexamethasone 500microgram tablets (Consilient Health Ltd) (product),1,20210708
+Corticosteroid,SNOMED,37690211000001104,Dexamethasone 500microgram tablets (CST Pharma Ltd) (product),1,20210708
+Corticosteroid,SNOMED,30047811000001109,Dexamethasone 500microgram tablets (DE Pharmaceuticals) (product),1,20210708
+Corticosteroid,SNOMED,15245611000001104,Dexamethasone 500microgram tablets (Essential Generics Ltd) (product),1,20210708
+Corticosteroid,SNOMED,37220711000001102,Dexamethasone 500microgram tablets (Martindale Pharmaceuticals Ltd) (product),1,20210708
+Corticosteroid,SNOMED,37393311000001107,Dexamethasone 500microgram tablets (Mawdsley-Brooks & Company Ltd) (product),1,20210708
+Corticosteroid,SNOMED,39299011000001106,Dexamethasone 500microgram tablets (Medihealth (Northern) Ltd) (product),1,20210708
+Corticosteroid,SNOMED,3287811000001105,Dexamethasone 500microgram tablets (Organon Laboratories Ltd) (product),1,20210708
+Corticosteroid,SNOMED,29803711000001101,Dexamethasone 500microgram tablets (Sigma Pharmaceuticals Plc) (product),1,20210708
+Corticosteroid,SNOMED,3288811000001109,Dexamethasone 500microgram tablets (Unichem Plc) (product),1,20210708
+Corticosteroid,SNOMED,412335008,Product containing precisely dexamethasone 6 milligram/1 each conventional release oral tablet (clinical drug),1,20210708
+Corticosteroid,SNOMED,376667002,Product containing precisely dexamethasone 750 microgram/1 each conventional release oral tablet (clinical drug),1,20210708
+Corticosteroid,SNOMED,350396002,"Product containing dexamethasone in oral dose form (medicinal product form),",1,20210708
+Corticosteroid,SNOMED,766473001,Product containing precisely dexamethasone (as dexamethasone sodium phosphate) 400 microgram/1 milliliter conventional release oral solution (clinical drug),1,20210708
+Corticosteroid,SNOMED,412334007,Product containing precisely dexamethasone 1.5 milligram/1 each conventional release oral tablet (clinical drug),1,20210708
+Corticosteroid,SNOMED,8433011000001100,Dexamethasone 500micrograms/5ml oral solution (Special Order) (product),1,20210708
+Corticosteroid,SNOMED,412333001,Product containing precisely dexamethasone 250 microgram/1 each conventional release oral tablet (clinical drug),1,20210708
+Corticosteroid,SNOMED,412335008,Product containing precisely dexamethasone 6 milligram/1 each conventional release oral tablet (clinical drug),1,20210708
+Corticosteroid,SNOMED,376667002,Product containing precisely dexamethasone 750 microgram/1 each conventional release oral tablet (clinical drug),1,20210708
+Corticosteroid,SNOMED,41195001000027100,ORADEXON-ORGANON tablets 2mg [ORGANON] (from CPRD product.txt),1,20210708
+Corticosteroid,SNOMED,3851611000001100,DEXSOL oral solution 2mg/5ml [ROSEMONT] (from CPRD product.txt),1,20210708
+Corticosteroid,SNOMED,14365001000027100,HYDROCORTISTAB tablets 20mg [WAYMADE] (from CPRD product.txt),1,20210708
+Corticosteroid,SNOMED,4052211000001100,Medrone 100mg (from CPRD product.txt),1,20210708
+Corticosteroid,SNOMED,5051911000001100,Medrone 16 mg(from CPRD product.txt),1,20210708
+Corticosteroid,SNOMED,4051211000001100,Medrone 2 mg (from CPRD product.txt),1,20210708
+Corticosteroid,SNOMED,4051611000001100,Medrone 4 mg(from CPRD product.txt),1,20210708
+Corticosteroid,SNOMED,459611000001100,DELTACORTRIL ENTERIC tablets 2.5mg [ALLIANCE] (from CPRD product.txt),1,20210708
+Corticosteroid,SNOMED,331111000001100,DELTACORTRIL ENTERIC tablets 5mg [ALLIANCE] (from CPRD product.txt),1,20210708
+Corticosteroid,SNOMED,47605001000027100,DELTASTAB tablets 1mg [WAYMADE] (from CPRD product.txt),1,20210708
+Corticosteroid,SNOMED,47615001000027100,DELTASTAB tablets 5mg [WAYMADE] (from CPRD product.txt),1,20210708
+Corticosteroid,SNOMED,79935001000027100,PRECORTISYL FORTE tablets 25mg [AVENTIS] (from CPRD product.txt),1,20210708
+Corticosteroid,SNOMED,25615001000027100,PRECORTISYL tablets 1mg [HOECHSTMAR] (from CPRD product.txt),1,20210708
+Corticosteroid,SNOMED,25625001000027100,PRECORTISYL tablets 5mg [HOECHSTMAR] (from CPRD product.txt),1,20210708
+Corticosteroid,SNOMED,780280003,Product containing only prednisolone in oral dose form (medicinal product form),1,20210708
+Corticosteroid,SNOMED,374291003,Product containing precisely prednisolone (as prednisolone sodium phosphate) 1 milligram/1 milliliter conventional release oral solution (clinical drug),1,20210708
+Corticosteroid,SNOMED,374290002,Product containing precisely prednisolone (as prednisolone sodium phosphate) 3 milligram/1 milliliter conventional release oral solution (clinical drug),1,20210708
+Corticosteroid,SNOMED,416646003,Product containing precisely prednisolone (as prednisolone sodium phosphate) 5 milligram/1 milliliter conventional release oral solution (clinical drug),1,20210708
+Corticosteroid,SNOMED,325426006,Product containing precisely prednisolone 1 milligram/1 each conventional release oral tablet (clinical drug),1,20210708
+Corticosteroid,SNOMED,649711000001109,Prednisolone 1mg tablets (A A H Pharmaceuticals Ltd) (product),1,20210708
+Corticosteroid,SNOMED,646211000001106,Prednisolone 1mg tablets (Accord Healthcare Ltd) (product),1,20210708
+Corticosteroid,SNOMED,9807711000001108,Prednisolone 1mg tablets (Almus Pharmaceutical Ltd) (product),1,20210708
+Corticosteroid,SNOMED,238511000001107,Prednisolone 1mg tablets (Approved Prescription Services) (product),1,20210708
+Corticosteroid,SNOMED,10409611000001103,Prednisolone 1mg tablets (Arrow Generics Ltd) (product),1,20210708
+Corticosteroid,SNOMED,844111000001103,Prednisolone 1mg tablets (C P Pharmaceuticals Ltd) (product),1,20210708
+Corticosteroid,SNOMED,18285011000001109,Prednisolone 1mg tablets (Co-Pharma Ltd) (product),1,20210708
+Corticosteroid,SNOMED,30114811000001104,Prednisolone 1mg tablets (DE Pharmaceuticals) (product),1,20210708
+Corticosteroid,SNOMED,13245311000001104,Prednisolone 1mg tablets (Dowelhurst Ltd) (product),1,20210708
+Corticosteroid,SNOMED,32807911000001101,Prednisolone 1mg tablets (Genesis Pharmaceuticals Ltd) (product),1,20210708
+Corticosteroid,SNOMED,707911000001100,Prednisolone 1mg tablets (Kent Pharmaceuticals Ltd) (product),1,20210708
+Corticosteroid,SNOMED,14786411000001103,Prednisolone 1mg tablets (LPC Medical (UK) Ltd) (product),1,20210708
+Corticosteroid,SNOMED,30858911000001100,Prednisolone 1mg tablets (Mawdsley-Brooks & Company Ltd) (product),1,20210708
+Corticosteroid,SNOMED,39169011000001106,Prednisolone 1mg tablets (Medihealth (Northern) Ltd) (product),1,20210708
+Corticosteroid,SNOMED,15175511000001102,Prednisolone 1mg tablets (Sigma Pharmaceuticals Plc) (product),1,20210708
+Corticosteroid,SNOMED,798611000001108,Prednisolone 1mg tablets (The Boots Company) (product),1,20210708
+Corticosteroid,SNOMED,52911000001107,Prednisolone 1mg tablets (Unichem Plc) (product),1,20210708
+Corticosteroid,SNOMED,21851211000001107,Prednisolone 1mg tablets (Waymade Healthcare Plc) (product),1,20210708
+Corticosteroid,SNOMED,432224007,Product containing precisely prednisolone 1 milligram/1 milliliter conventional release oral suspension (clinical drug),1,20210708
+Corticosteroid,SNOMED,13120111000001109,Prednisolone 5mg/5ml oral suspension (Special Order) (product),1,20210708
+Corticosteroid,SNOMED,429995001,Product containing precisely prednisolone 2 milligram/1 milliliter conventional release oral solution (clinical drug),1,20210708
+Corticosteroid,SNOMED,13054711000001107,Prednisolone 10mg/5ml oral solution (Special Order) (product),1,20210708
+Corticosteroid,SNOMED,325442004,Product containing precisely prednisolone 2.5 milligram/1 each gastro-resistant oral tablet (clinical drug),1,20210708
+Corticosteroid,SNOMED,459611000001100,Deltacortril 2.5mg gastro-resistant tablets (Phoenix Labs Ltd) (product),1,20210708
+Corticosteroid,SNOMED,22519711000001105,Dilacort 2.5mg gastro-resistant tablets (Auden McKenzie (Pharma Division) Ltd) (product),1,20210708
+Corticosteroid,SNOMED,32652311000001103,Dilacort 2.5mg gastro-resistant tablets (Crescent Pharma Ltd) (product),1,20210708
+Corticosteroid,SNOMED,33577711000001104,Dilacort 2.5mg gastro-resistant tablets (Teva UK Ltd) (product),1,20210708
+Corticosteroid,SNOMED,858811000001104,Prednisolone 2.5mg gastro-resistant tablets (A A H Pharmaceuticals Ltd) (product),1,20210708
+Corticosteroid,SNOMED,380011000001100,Prednisolone 2.5mg gastro-resistant tablets (Accord Healthcare Ltd) (product),1,20210708
+Corticosteroid,SNOMED,19743011000001109,Prednisolone 2.5mg gastro-resistant tablets (Almus Pharmaceuticals Ltd) (product),1,20210708
+Corticosteroid,SNOMED,4208511000001105,Prednisolone 2.5mg gastro-resistant tablets (Approved Prescription Services) (product),1,20210708
+Corticosteroid,SNOMED,36568211000001107,Prednisolone 2.5mg gastro-resistant tablets (Bristol Laboratories Ltd) (product),1,20210708
+Corticosteroid,SNOMED,30114011000001105,Prednisolone 2.5mg gastro-resistant tablets (DE Pharmaceuticals) (product),1,20210708
+Corticosteroid,SNOMED,13245711000001100,Prednisolone 2.5mg gastro-resistant tablets (Dowelhurst Ltd) (product),1,20210708
+Corticosteroid,SNOMED,685311000001104,Prednisolone 2.5mg gastro-resistant tablets (Kent Pharmaceuticals Ltd) (product),1,20210708
+Corticosteroid,SNOMED,37130211000001109,Prednisolone 2.5mg gastro-resistant tablets (Mawdsley-Brooks & Company Ltd) (product),1,20210708
+Corticosteroid,SNOMED,39300111000001105,Prednisolone 2.5mg gastro-resistant tablets (Medihealth (Northern) Ltd) (product),1,20210708
+Corticosteroid,SNOMED,17916411000001100,Prednisolone 2.5mg gastro-resistant tablets (Phoenix Healthcare Distribution Ltd) (product),1,20210708
+Corticosteroid,SNOMED,17999311000001104,Prednisolone 2.5mg gastro-resistant tablets (Phoenix Labs Ltd) (product),1,20210708
+Corticosteroid,SNOMED,15175711000001107,Prednisolone 2.5mg gastro-resistant tablets (Sigma Pharmaceuticals Plc) (product),1,20210708
+Corticosteroid,SNOMED,18307011000001109,Prednisolone 2.5mg gastro-resistant tablets (Teva UK Ltd) (product),1,20210708
+Corticosteroid,SNOMED,779211000001109,Prednisolone 2.5mg gastro-resistant tablets (Unichem Plc) (product),1,20210708
+Corticosteroid,SNOMED,22452711000001102,Prednisolone 2.5mg gastro-resistant tablets (Waymade Healthcare Plc) (product),1,20210708
+Corticosteroid,SNOMED,325450008,Product containing precisely prednisolone 25 milligram/1 each conventional release oral tablet (clinical drug),1,20210708
+Corticosteroid,SNOMED,28799811000001108,Pevanti 25mg tablets (AMCo) (product),1,20210708
+Corticosteroid,SNOMED,716111000001103,Prednisolone 25mg tablets (A A H Pharmaceuticals Ltd) (product),1,20210708
+Corticosteroid,SNOMED,30991311000001108,Prednisolone 25mg tablets (Accord Healthcare Ltd) (product),1,20210708
+Corticosteroid,SNOMED,37778711000001106,Prednisolone 25mg tablets (DE Pharmaceuticals) (product),1,20210708
+Corticosteroid,SNOMED,37131011000001108,Prednisolone 25mg tablets (Mawdsley-Brooks & Company Ltd) (product),1,20210708
+Corticosteroid,SNOMED,39180111000001100,Prednisolone 25mg tablets (Medihealth (Northern) Ltd) (product),1,20210708
+Corticosteroid,SNOMED,17917211000001102,Prednisolone 25mg tablets (Phoenix Healthcare Distribution Ltd) (product),1,20210708
+Corticosteroid,SNOMED,313911000001107,Prednisolone 25mg tablets (Unichem Plc) (product),1,20210708
+Corticosteroid,SNOMED,4852811000001108,Prednisolone 25mg tablets (Zentiva Pharma UK Ltd) (product),1,20210708
+Corticosteroid,SNOMED,416533002,Product containing precisely prednisolone 3 milligram/1 milliliter conventional release oral solution (clinical drug),1,20210708
+Corticosteroid,SNOMED,13055911000001108,Prednisolone 15mg/5ml oral solution (Special Order) (product),1,20210708
+Corticosteroid,SNOMED,432225008,Product containing precisely prednisolone 3 milligram/1 milliliter conventional release oral suspension (clinical drug),1,20210708
+Corticosteroid,SNOMED,13055311000001107,Prednisolone 15mg/5ml oral suspension (Special Order) (product),1,20210708
+Corticosteroid,SNOMED,325427002,Product containing precisely prednisolone 5 milligram/1 each conventional release oral tablet (clinical drug),1,20210708
+Corticosteroid,SNOMED,28799011000001102,Pevanti 5mg tablets (AMCo) (product),1,20210708
+Corticosteroid,SNOMED,876911000001107,Prednisolone 5mg tablets (A A H Pharmaceuticals Ltd) (product),1,20210708
+Corticosteroid,SNOMED,85511000001101,Prednisolone 5mg tablets (Accord Healthcare Ltd) (product),1,20210708
+Corticosteroid,SNOMED,9807911000001105,Prednisolone 5mg tablets (Almus Pharmaceutical Ltd) (product),1,20210708
+Corticosteroid,SNOMED,110811000001100,Prednisolone 5mg tablets (Approved Prescription Services) (product),1,20210708
+Corticosteroid,SNOMED,10410111000001103,Prednisolone 5mg tablets (Arrow Generics Ltd) (product),1,20210708
+Corticosteroid,SNOMED,940311000001100,Prednisolone 5mg tablets (C P Pharmaceuticals Ltd) (product),1,20210708
+Corticosteroid,SNOMED,18285211000001104,Prednisolone 5mg tablets (Co-Pharma Ltd) (product),1,20210708
+Corticosteroid,SNOMED,30115011000001109,Prednisolone 5mg tablets (DE Pharmaceuticals) (product),1,20210708
+Corticosteroid,SNOMED,13245511000001105,Prednisolone 5mg tablets (Dowelhurst Ltd) (product),1,20210708
+Corticosteroid,SNOMED,32808311000001101,Prednisolone 5mg tablets (Genesis Pharmaceuticals Ltd) (product),1,20210708
+Corticosteroid,SNOMED,350611000001104,Prednisolone 5mg tablets (Kent Pharmaceuticals Ltd) (product),1,20210708
+Corticosteroid,SNOMED,14786811000001101,Prednisolone 5mg tablets (LPC Medical (UK) Ltd) (product),1,20210708
+Corticosteroid,SNOMED,30859111000001105,Prednisolone 5mg tablets (Mawdsley-Brooks & Company Ltd) (product),1,20210708
+Corticosteroid,SNOMED,38721711000001107,Prednisolone 5mg tablets (NorthStar Healthcare Unlimited Company) (product),1,20210708
+Corticosteroid,SNOMED,18625211000001107,Prednisolone 5mg tablets (Phoenix Healthcare Distribution Ltd) (product),1,20210708
+Corticosteroid,SNOMED,86711000001103,Prednisolone 5mg tablets (The Boots Company) (product),1,20210708
+Corticosteroid,SNOMED,772111000001107,Prednisolone 5mg tablets (Unichem Plc) (product),1,20210708
+Corticosteroid,SNOMED,21851411000001106,Prednisolone 5mg tablets (Waymade Healthcare Plc) (product),1,20210708
+Corticosteroid,SNOMED,325443009,Product containing precisely prednisolone 5 milligram/1 each gastro-resistant oral tablet (clinical drug),1,20210708
+Corticosteroid,SNOMED,331111000001100,Deltacortril 5mg gastro-resistant tablets (Phoenix Labs Ltd) (product),1,20210708
+Corticosteroid,SNOMED,22520311000001107,Dilacort 5mg gastro-resistant tablets (Auden McKenzie (Pharma Division) Ltd) (product),1,20210708
+Corticosteroid,SNOMED,32652511000001109,Dilacort 5mg gastro-resistant tablets (Crescent Pharma Ltd) (product),1,20210708
+Corticosteroid,SNOMED,33577911000001102,Dilacort 5mg gastro-resistant tablets (Teva UK Ltd) (product),1,20210708
+Corticosteroid,SNOMED,662011000001105,Prednisolone 5mg gastro-resistant tablets (A A H Pharmaceuticals Ltd) (product),1,20210708
+Corticosteroid,SNOMED,512811000001108,Prednisolone 5mg gastro-resistant tablets (Accord Healthcare Ltd) (product),1,20210708
+Corticosteroid,SNOMED,19743211000001104,Prednisolone 5mg gastro-resistant tablets (Almus Pharmaceuticals Ltd) (product),1,20210708
+Corticosteroid,SNOMED,4208911000001103,Prednisolone 5mg gastro-resistant tablets (Approved Prescription Services) (product),1,20210708
+Corticosteroid,SNOMED,34444511000001106,Prednisolone 5mg gastro-resistant tablets (Bristol Laboratories Ltd) (product),1,20210708
+Corticosteroid,SNOMED,30114311000001108,Prednisolone 5mg gastro-resistant tablets (DE Pharmaceuticals) (product),1,20210708
+Corticosteroid,SNOMED,13245911000001103,Prednisolone 5mg gastro-resistant tablets (Dowelhurst Ltd) (product),1,20210708
+Corticosteroid,SNOMED,447211000001105,Prednisolone 5mg gastro-resistant tablets (Kent Pharmaceuticals Ltd) (product),1,20210708
+Corticosteroid,SNOMED,37130611000001106,Prednisolone 5mg gastro-resistant tablets (Mawdsley-Brooks & Company Ltd) (product),1,20210708
+Corticosteroid,SNOMED,39204911000001106,Prednisolone 5mg gastro-resistant tablets (Medihealth (Northern) Ltd) (product),1,20210708
+Corticosteroid,SNOMED,17916811000001103,Prednisolone 5mg gastro-resistant tablets (Phoenix Healthcare Distribution Ltd) (product),1,20210708
+Corticosteroid,SNOMED,17999611000001109,Prednisolone 5mg gastro-resistant tablets (Phoenix Labs Ltd) (product),1,20210708
+Corticosteroid,SNOMED,15176111000001100,Prednisolone 5mg gastro-resistant tablets (Sigma Pharmaceuticals Plc) (product),1,20210708
+Corticosteroid,SNOMED,18307211000001104,Prednisolone 5mg gastro-resistant tablets (Teva UK Ltd) (product),1,20210708
+Corticosteroid,SNOMED,255211000001101,Prednisolone 5mg gastro-resistant tablets (Unichem Plc) (product),1,20210708
+Corticosteroid,SNOMED,22453011000001108,Prednisolone 5mg gastro-resistant tablets (Waymade Healthcare Plc) (product),1,20210708
+Corticosteroid,SNOMED,325445002,Product containing precisely prednisolone 50 milligram/1 each conventional release oral tablet (clinical drug),1,20210708
+Corticosteroid,SNOMED,4752611000001107,Prednisolone 50mg tablets (A A H Pharmaceuticals Ltd) (product),1,20210708
+Corticosteroid,SNOMED,4752811000001106,Prednisolone 50mg tablets (Approved Prescription Services) (product),1,20210708
+Corticosteroid,SNOMED,780280003,Product containing only prednisolone in oral dose form (medicinal product form),1,20210708
+Corticosteroid,SNOMED,349354003,Product containing prednisolone in oral dose form (medicinal product form),1,20210708
+Corticosteroid,SNOMED,374291003,Product containing precisely prednisolone (as prednisolone sodium phosphate) 1 milligram/1 milliliter conventional release oral solution (clinical drug),1,20210708
+Corticosteroid,SNOMED,374290002,Product containing precisely prednisolone (as prednisolone sodium phosphate) 3 milligram/1 milliliter conventional release oral solution (clinical drug),1,20210708
+Corticosteroid,SNOMED,416646003,Product containing precisely prednisolone (as prednisolone sodium phosphate) 5 milligram/1 milliliter conventional release oral solution (clinical drug),1,20210708
+Corticosteroid,SNOMED,432224007,Product containing precisely prednisolone 1 milligram/1 milliliter conventional release oral suspension (clinical drug),1,20210708
+Corticosteroid,SNOMED,13120111000001109,Prednisolone 5mg/5ml oral suspension (Special Order) (product),1,20210708
+Corticosteroid,SNOMED,429995001,Product containing precisely prednisolone 2 milligram/1 milliliter conventional release oral solution (clinical drug),1,20210708
+Corticosteroid,SNOMED,13054711000001107,Prednisolone 10mg/5ml oral solution (Special Order) (product),1,20210708
+Corticosteroid,SNOMED,416533002,Product containing precisely prednisolone 3 milligram/1 milliliter conventional release oral solution (clinical drug),1,20210708
+Corticosteroid,SNOMED,13055911000001108,Prednisolone 15mg/5ml oral solution (Special Order) (product),1,20210708
+Corticosteroid,SNOMED,432225008,Product containing precisely prednisolone 3 milligram/1 milliliter conventional release oral suspension (clinical drug),1,20210708
+Corticosteroid,SNOMED,13055311000001107,Prednisolone 15mg/5ml oral suspension (Special Order) (product),1,20210708
+Corticosteroid,SNOMED,779866002,Methylprednisolone only product in oral dose form,1,20210708
+Corticosteroid,SNOMED,325410005,Product containing precisely methylprednisolone 100 milligram/1 each conventional release oral tablet (clinical drug),1,20210708
+Corticosteroid,SNOMED,18592011000001106,Medrone 100mg tablets (Doncaster Pharmaceuticals Ltd) (product),1,20210708
+Corticosteroid,SNOMED,17516611000001107,Medrone 100mg tablets (Mawdsley-Brooks & Company Ltd) (product),1,20210708
+Corticosteroid,SNOMED,36815111000001106,Medrone 100mg tablets (Originalis B.V.) (product),1,20210708
+Corticosteroid,SNOMED,4052211000001108,Medrone 100mg tablets (Pfizer Ltd) (product),1,20210708
+Corticosteroid,SNOMED,17570011000001108,Medrone 100mg tablets (Sigma Pharmaceuticals Plc) (product),1,20210708
+Corticosteroid,SNOMED,325413007,Product containing precisely methylprednisolone 16 milligram/1 each conventional release oral tablet (clinical drug),1,20210708
+Corticosteroid,SNOMED,4051911000001105,Medrone 16mg tablets (Pfizer Ltd) (product),1,20210708
+Corticosteroid,SNOMED,325411009,Product containing precisely methylprednisolone 2 milligram/1 each conventional release oral tablet (clinical drug),1,20210708
+Corticosteroid,SNOMED,4051211000001101,Medrone 2mg tablets (Pfizer Ltd) (product),1,20210708
+Corticosteroid,SNOMED,325412002,Product containing precisely methylprednisolone 4 milligram/1 each conventional release oral tablet (clinical drug),1,20210708
+Corticosteroid,SNOMED,4051611000001104,Medrone 4mg tablets (Pfizer Ltd) (product),1,20210708
+Corticosteroid,SNOMED,350449009,Methylprednisolone-containing product in oral dose form,1,20210708
+Corticosteroid,SNOMED,779866002,Product containing only methylprednisolone in oral dose form (medicinal product form),1,20210708
+Corticosteroid,SNOMED,325413007,Product containing precisely methylprednisolone 16 milligram/1 each conventional release oral tablet (clinical drug),1,20210708
+Corticosteroid,SNOMED,4051911000001105,Medrone 16mg tablets (Pfizer Ltd) (product),1,20210708
+Corticosteroid,SNOMED,25675001000027100,PREDNESOL tablets 5mg [SOVEREIGN] (from CPRD product.txt),1,20210708
+Corticosteroid,SNOMED,28475001000027100,SINTISONE tablets [PHARMACIA] (from CPRD product.txt),1,20210708
+Corticosteroid,SNOMED,6935001000027100,DECORTISYL tablets 5mg [ROUSSEL] (from CPRD product.txt),1,20210708
+Corticosteroid,SNOMED,17873311000001100,LODOTRA modified release tablet 2mg [NAPPPHARM] (from CPRD product.txt),1,20210708
+Corticosteroid,SNOMED,17873911000001100,LODOTRA modified release tablet 5mg [NAPPPHARM] (from CPRD product.txt),1,20210708
+Corticosteroid,SNOMED,780283001,Prednisone only product in oral dose form,1,20210708
+Corticosteroid,SNOMED,418349006,Product containing precisely prednisone 1 milligram/1 each conventional release oral tablet (clinical drug),1,20210708
+Corticosteroid,SNOMED,11386511000001109,Decortin 1mg tablets (Merck & Co. Inc) (product),1,20210708
+Corticosteroid,SNOMED,374058000,Product containing precisely prednisone 10 milligram/1 each conventional release oral tablet (clinical drug),1,20210708
+Corticosteroid,SNOMED,373989007,Product containing precisely prednisone 2.5 milligram/1 each conventional release oral tablet (clinical drug),1,20210708
+Corticosteroid,SNOMED,325456002,Product containing precisely prednisone 20 milligram/1 each conventional release oral tablet (clinical drug),1,20210708
+Corticosteroid,SNOMED,373994007,Product containing precisely prednisone 5 milligram/1 each conventional release oral tablet (clinical drug),1,20210708
+Corticosteroid,SNOMED,11387011000001103,Decortin 5mg tablets (Merck & Co. Inc) (product),1,20210708
+Corticosteroid,SNOMED,374072009,Product containing precisely prednisone 50 milligram/1 each conventional release oral tablet (clinical drug),1,20210708
+Corticosteroid,SNOMED,11387311000001100,Decortin 50mg tablets (Merck & Co. Inc) (product),1,20210708
+Corticosteroid,SNOMED,768296006,Prednisone-containing product in oral dose form,1,20210708
+Corticosteroid,SNOMED,53555001000027100,LEDERCORT tablets 2mg [WYETH PHAR] (from CPRD product.txt),1,20210708
+Corticosteroid,SNOMED,53565001000027100,LEDERCORT tablets 4mg [WYETH PHAR] (from CPRD product.txt),1,20210708
+Corticosteroid,SNOMED,780692007,Triamcinolone only product in oral dose form,1,20210708
+Corticosteroid,SNOMED,374400005,Product containing precisely triamcinolone 4 milligram/1 each conventional release oral tablet (clinical drug),1,20210708
+Corticosteroid,SNOMED,350463003,Triamcinolone-containing product in oral dose form,1,20210708
