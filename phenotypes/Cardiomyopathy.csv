@@ -1,0 +1,13 @@
+name,terminology,code,term,code_type,RecordDate
+cardiomyopathy,ICD10,I42.0,Dilated cardiomyopathy,1,20210127
+cardiomyopathy,ICD10,I42.6,Alcoholic cardiomyopathy,1,20210127
+cardiomyopathy,ICD10,I25.5,Ischaemic cardiomyopathy,1,20210127
+cardiomyopathy,ICD10,I42.3,Endomyocardial (eosinophilic) disease,1,20210127
+cardiomyopathy,ICD10,I42.5,Other restrictive cardiomyopathy,1,20210127
+cardiomyopathy,ICD10,I42.7,Cardiomyopathy due to drugs and other external agents,1,20210127
+cardiomyopathy,ICD10,I42.8,Other cardiomyopathies,1,20210127
+cardiomyopathy,ICD10,I42.9,"Cardiomyopathy, unspecified",1,20210127
+cardiomyopathy,ICD10,I43,Cardiomyopathy in diseases classified elsewhere,1,20210127
+cardiomyopathy,SNOMED,1321241000000105,Cardiomyopathy caused by severe acute respiratory syndrome coronavirus 2 (disorder),1,20210127
+cardiomyopathy,SNOMED,240077004,Severe scapuloperoneal muscular dystrophy with cardiomyopathy (disorder),1,20210127
+cardiomyopathy,SNOMED,240072005,Benign scapuloperoneal muscular dystrophy with cardiomyopathy (disorder),1,20210127

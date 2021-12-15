@@ -1,0 +1,5 @@
+name,terminology,code,term,code_type,RecordDate
+PE,SNOMED,438773007,Recurrent pulmonary embolism (disorder),1,20210127
+PE,SNOMED,133971000119108,Chronic pulmonary embolism (disorder),1,20210127
+PE,SNOMED,438773007,Recurrent pulmonary embolism (disorder),1,20210127
+PE,ICD10,I26,Pulmonary embolism,1,20210127

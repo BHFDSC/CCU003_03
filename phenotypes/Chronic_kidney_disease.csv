@@ -1,0 +1,130 @@
+name,terminology,code,term,code_type,RecordDate
+ckdb,ICD10,N181,chronic kidney disease stage 1,1,20210127
+ckdb,ICD10,N182,chronic kidney disease stage 2,1,20210127
+ckdb,ICD10,N183,chronic kidney disease stage 3,1,20210127
+ckdb,ICD10,N184,chronic kidney disease stage 4,1,20210127
+ckdb,ICD10,N185,chronic kidney disease stage 5,1,20210127
+ckdb,ICD10,T824,mechanical complication of vascular dialysis catheter,1,20210127
+ckdb,ICD10,T861,kidney transplant failure and rejection,1,20210127
+ckdb,ICD10,Y602,during kidney dialysis or other perfusion,1,20210127
+ckdb,ICD10,Y612,during kidney dialysis or other perfusion,1,20210127
+ckdb,ICD10,Y622,during kidney dialysis or other perfusion,1,20210127
+ckdb,ICD10,Y841,kidney dialysis,1,20210127
+ckdb,ICD10,Z49,care involving dialysis,1,20210127
+ckdb,ICD10,Z490,preparatory care for dialysis,1,20210127
+ckdb,ICD10,Z491,extracorporeal dialysis,1,20210127
+ckdb,ICD10,Z492,other dialysis,1,20210127
+ckdb,ICD10,Z940,kidney transplant status,1,20210127
+ckdb,ICD10,Z992,dependence on renal dialysis//on dialysis treatment,1,20210127
+ckdb,ICD10,N186,patients with CKD requiring dialysis,1,20210127
+ckdb,ICD10,I770,arteriovenous fistula,1,20210127
+ckdb,ICD10,N165,renal tubulo-interstitial disorders in transplant rejection,1,20210127
+ckdb,SNOMED,700379002,chronic kidney disease stage 3b,1,20210127
+ckdb,SNOMED,324121000000109,chronic kidney disease stage 1 with proteinuria,1,20210127
+ckdb,SNOMED,994401000006102,chronic kidney disease stage 1,1,20210127
+ckdb,SNOMED,431855005,chronic kidney disease stage 1,1,20210127
+ckdb,SNOMED,324181000000105,chronic kidney disease stage 2 with proteinuria,1,20210127
+ckdb,SNOMED,994411000006104,chronic kidney disease stage 2,1,20210127
+ckdb,SNOMED,431856006,chronic kidney disease stage 2,1,20210127
+ckdb,SNOMED,324251000000105,chronic kidney disease stage 3 with proteinuria,1,20210127
+ckdb,SNOMED,324311000000101,chronic kidney disease stage 3a with proteinuria,1,20210127
+ckdb,SNOMED,324541000000105,chronic kidney disease stage 5 without proteinuria,1,20210127
+ckdb,SNOMED,994441000006100,chronic kidney disease stage 5,1,20210127
+ckdb,SNOMED,950291000000103,chronic kidney disease with glomerular filtration rate category g5 and albuminuria category a2,1,20210127
+ckdb,SNOMED,950211000000107,chronic kidney disease with glomerular filtration rate category g4 and albuminuria category a2,1,20210127
+ckdb,SNOMED,324441000000106,ckd (chronic kidney disease stage 4 with proteinuria),1,20210127
+ckdb,SNOMED,949881000000106,chronic kidney disease with glomerular filtration rate category g3a and albuminuria category a1,1,20210127
+ckdb,SNOMED,324341000000100,ckd (chronic kidney disease stage 3a without proteinuria),1,20210127
+ckdb,SNOMED,714153000,chronic kidney disease 5t,1,20210127
+ckdb,SNOMED,714152005,ckd (chronic kidney disease stage 5d),1,20210127
+ckdb,SNOMED,433146000,chronic kidney disease stage 5,1,20210127
+ckdb,SNOMED,950181000000106,ckd g4a1 - chronic kidney disease with glomerular filtration rate category g4 and albuminuria category a1,1,20210127
+ckdb,SNOMED,949521000000108,chronic kidney disease with glomerular filtration rate category g2 and albuminuria category a1,1,20210127
+ckdb,SNOMED,949621000000109,ckd g2a3 - chronic kidney disease with glomerular filtration rate category g2 and albuminuria category a3,1,20210127
+ckdb,SNOMED,949901000000109,ckd g3aa2 - chronic kidney disease with glomerular filtration rate category g3a and albuminuria category a2,1,20210127
+ckdb,SNOMED,949921000000100,ckd g3aa3 - chronic kidney disease with glomerular filtration rate category g3a and albuminuria category a3,1,20210127
+ckdb,SNOMED,950061000000103,ckd g3ba1 - chronic kidney disease with glomerular filtration rate category g3b and albuminuria category a1,1,20210127
+ckdb,SNOMED,950101000000101,ckd g3ba3 - chronic kidney disease with glomerular filtration rate category g3b and albuminuria category a3,1,20210127
+ckdb,SNOMED,950231000000104,ckd g4a3 - chronic kidney disease with glomerular filtration rate category g4 and albuminuria category a3,1,20210127
+ckdb,SNOMED,949421000000107,ckd g1a2 - chronic kidney disease with glomerular filtration rate category g1 and albuminuria category a2,1,20210127
+ckdb,SNOMED,431857002,chronic kidney disease stage 4,1,20210127
+ckdb,SNOMED,433144002,chronic kidney disease stage 3,1,20210127
+ckdb,SNOMED,324411000000105,chronic kidney disease stage 3b without proteinuria,1,20210127
+ckdb,SNOMED,324471000000100,chronic kidney disease stage 4 without proteinuria,1,20210127
+ckdb,SNOMED,324281000000104,ckd (chronic kidney disease stage 3 without proteinuria),1,20210127
+ckdb,SNOMED,949481000000108,chronic kidney disease with glomerular filtration rate category g1 and albuminuria category a3,1,20210127
+ckdb,SNOMED,324371000000106,chronic kidney disease stage 3b with proteinuria,1,20210127
+ckdb,SNOMED,950251000000106,ckd g5a1 - chronic kidney disease with glomerular filtration rate category g5 and albuminuria category a1,1,20210127
+ckdb,SNOMED,950081000000107,ckd g3ba2 - chronic kidney disease with glomerular filtration rate category g3b and albuminuria category a2,1,20210127
+ckdb,SNOMED,949561000000100,chronic kidney disease with glomerular filtration rate category g2 and albuminuria category a2,1,20210127
+ckdb,SNOMED,994421000006107,chronic kidney disease stage 3,1,20210127
+ckdb,SNOMED,324501000000107,ckd (chronic kidney disease stage 5 with proteinuria),1,20210127
+ckdb,SNOMED,950311000000102,ckd g5a3 - chronic kidney disease with glomerular filtration rate category g5 and albuminuria category a3,1,20210127
+ckdb,SNOMED,994431000006105,chronic kidney disease stage 4,1,20210127
+ckdb,SNOMED,700378005,chronic kidney disease stage 3a,1,20210127
+ckdb,SNOMED,216933008,Failure of sterile precautions during kidney dialysis,1,20210127
+ckdb,SNOMED,238318009,Continuous ambulatory peritoneal dialysis,1,20210127
+ckdb,SNOMED,423062001,Stenosis of arteriovenous dialysis fistula,1,20210127
+ckdb,SNOMED,438546008,Ligation of arteriovenous dialysis fistula,1,20210127
+ckdb,SNOMED,180272001,Placement ambulatory dialysis apparatus - compens renal fail,1,20210127
+ckdb,SNOMED,385971003,Preparatory care for dialysis,1,20210127
+ckdb,SNOMED,426361000000104,Unspecified aftercare involving intermittent dialysis,1,20210127
+ckdb,SNOMED,302497006,Haemodialysis,1,20210127
+ckdb,SNOMED,251859005,Dialysis finding,1,20210127
+ckdb,SNOMED,108241001,Dialysis procedure,1,20210127
+ckdb,SNOMED,398471000000102,Aftercare involving intermittent dialysis,1,20210127
+ckdb,SNOMED,180273006,Removal of ambulatory peritoneal dialysis catheter,1,20210127
+ckdb,SNOMED,426340003,Creation of graft fistula for dialysis,1,20210127
+ckdb,SNOMED,410511000000103,Aftercare involving renal dialysis NOS,1,20210127
+ckdb,SNOMED,426351000000102,Aftercare involving peritoneal dialysis,1,20210127
+ckdb,SNOMED,71192002,Peritoneal dialysis NEC,1,20210127
+ckdb,SNOMED,116223007,"""Kidney dialysis with complication, without blame""",1,20210127
+ckdb,SNOMED,428648006,Automated peritoneal dialysis,1,20210127
+ckdb,SNOMED,991521000000102,Dialysis fluid glucose level,1,20210127
+ckdb,SNOMED,161693006,H/O: renal dialysis,1,20210127
+ckdb,SNOMED,17778006,Mechanical complication of dialysis catheter,1,20210127
+ckdb,SNOMED,216878005,"""Accidental cut, puncture, perforation or haemorrhage during kidney dialysis""",1,20210127
+ckdb,SNOMED,276883000,Peritoneal dialysis-associated peritonitis,1,20210127
+ckdb,SNOMED,265764009,Renal dialysis,1,20210127
+ckdb,SNOMED,180277007,Insertion of temporary peritoneal dialysis catheter,1,20210127
+ckdb,SNOMED,79827002,cadaveric renal transplant,1,20210127
+ckdb,SNOMED,269698004,failure of sterile precautions during kidney dialysis,1,20210127
+ckdb,SNOMED,269691005,very mild acute rejection of renal transplant,1,20210127
+ckdb,SNOMED,216904007,acute rejection of renal transplant - grade i,1,20210127
+ckdb,SNOMED,70536003,Renal transplant stage 5,1,20210127
+ckdb,SNOMED,427053002,Extracorporeal albumin haemodialysis stage 5,1,20210127
+ckdb,SNOMED,225283000,Priming haemodialysis lines stage 5,1,20210127
+ckdb,SNOMED,420106004,Renal transplant venogram stage 5,1,20210127
+ckdb,SNOMED,708932005,Emergency haemodialysis stage 5,1,20210127
+ckdb,SNOMED,5571000001109,solution haemodialysis stage 5,1,20210127
+ckdb,SNOMED,366961000000102,Renal transplant recipient stage 5,1,20210127
+ckdb,SNOMED,57274006,Initial haemodialysis stage 5,1,20210127
+ckdb,SNOMED,233575001,Intermittent haemodialysis stage 5,1,20210127
+ckdb,SNOMED,85223007,Complication of haemodialysis stage 5,1,20210127
+ckdb,SNOMED,284991000119104,Chronic kidney disease stage 3 due to benign hypertension (disorder),1,20210127
+ckdb,SNOMED,368441000119102,Chronic kidney disease stage 3 due to drug induced diabetes mellitus (disorder),1,20210127
+ckdb,SNOMED,129171000119106,Chronic kidney disease stage 3 due to hypertension (disorder),1,20210127
+ckdb,SNOMED,90741000119107,Chronic kidney disease stage 3 due to type 1 diabetes mellitus (disorder),1,20210127
+ckdb,SNOMED,731000119105,Chronic kidney disease stage 3 due to type 2 diabetes mellitus (disorder),1,20210127
+ckdb,SNOMED,285001000119105,Chronic kidney disease stage 4 due to benign hypertension (disorder),1,20210127
+ckdb,SNOMED,368451000119100,Chronic kidney disease stage 4 due to drug induced diabetes mellitus (disorder),1,20210127
+ckdb,SNOMED,90751000119109,Chronic kidney disease stage 4 due to type 1 diabetes mellitus (disorder),1,20210127
+ckdb,SNOMED,721000119107,Chronic kidney disease stage 4 due to type 2 diabetes mellitus (disorder),1,20210127
+ckdb,SNOMED,285011000119108,Chronic kidney disease stage 5 due to benign hypertension (disorder),1,20210127
+ckdb,SNOMED,368461000119103,Chronic kidney disease stage 5 due to drug induced diabetes mellitus (disorder),1,20210127
+ckdb,SNOMED,129161000119100,Chronic kidney disease stage 5 due to hypertension (disorder),1,20210127
+ckdb,SNOMED,90761000119106,Chronic kidney disease stage 5 due to type 1 diabetes mellitus (disorder),1,20210127
+ckdb,SNOMED,711000119100,Chronic kidney disease stage 5 due to type 2 diabetes mellitus (disorder),1,20210127
+ckdb,SNOMED,96701000119107,Hypertensive heart AND Chronic kidney disease on dialysis (disorder),1,20210127
+ckdb,SNOMED,96751000119106,Hypertensive heart AND Chronic kidney disease stage 1 (disorder),1,20210127
+ckdb,SNOMED,96741000119109,Hypertensive heart AND Chronic kidney disease stage 2 (disorder),1,20210127
+ckdb,SNOMED,96731000119100,Hypertensive heart AND Chronic kidney disease stage 3 (disorder),1,20210127
+ckdb,SNOMED,96721000119103,Hypertensive heart AND Chronic kidney disease stage 4 (disorder),1,20210127
+ckdb,SNOMED,96711000119105,Hypertensive heart AND Chronic kidney disease stage 5 (disorder),1,20210127
+ckdb,SNOMED,285851000119102,Malignant Hypertensive Chronic kidney disease stage 1 (disorder),1,20210127
+ckdb,SNOMED,285861000119100,Malignant Hypertensive Chronic kidney disease stage 2 (disorder),1,20210127
+ckdb,SNOMED,285871000119106,Malignant Hypertensive Chronic kidney disease stage 3 (disorder),1,20210127
+ckdb,SNOMED,285881000119109,Malignant Hypertensive Chronic kidney disease stage 4 (disorder),1,20210127
+ckdb,SNOMED,153851000119106,Malignant Hypertensive Chronic kidney disease stage 5 (disorder),1,20210127
+ckdb,SNOMED,285841000119104,Malignant Hypertensive end stage renal disease (disorder),1,20210127
+ckdb,SNOMED,286371000119107,Malignant Hypertensive end stage renal disease on dialysis (disorder),1,20210127

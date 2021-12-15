@@ -1,0 +1,31 @@
+name,terminology,code,term,code_type,RecordDate
+AF,SNOMED,5370000,Atrial flutter,1,20210127
+AF,SNOMED,49436004,Atrial fibrillation,1,20210127
+AF,SNOMED,134377004,Atrial fibrillation monitoring,1,20210127
+AF,SNOMED,164889003,ECG: atrial fibrillation,1,20210127
+AF,SNOMED,164890007,ECG: atrial flutter,1,20210127
+AF,SNOMED,195080001,Atrial fibrillation and flutter,1,20210127
+AF,SNOMED,233911009,Non-rheumatic atrial fibrillation,1,20210127
+AF,SNOMED,282825002,AF - Paroxysmal atrial fibrillation,1,20210127
+AF,SNOMED,312442005,H/O: atrial fibrillation,0,20210127
+AF,SNOMED,428076002,History of atrial flutter (situation),0,20210127
+AF,SNOMED,440028005,Permanent atrial fibrillation (disorder),1,20210127
+AF,SNOMED,440059007,Persistent atrial fibrillation (disorder),1,20210127
+AF,SNOMED,120041000119109,Atrial fibrillation with rapid ventricular response (disorder),1,20210127
+AF,SNOMED,15964901000119107,Atypical atrial flutter (disorder),1,20210127
+AF,SNOMED,233910005,Lone atrial fibrillation (disorder),1,20210127
+AF,SNOMED,300996004,Controlled atrial fibrillation (disorder),1,20210127
+AF,SNOMED,720448006,Typical atrial flutter (disorder),1,20210127
+AF,SNOMED,314208002,Rapid atrial fibrillation (disorder),1,20210127
+AF,SNOMED,425615007,Chronic atrial flutter (disorder),1,20210127
+AF,SNOMED,426749004,Chronic atrial fibrillation (disorder),1,20210127
+AF,SNOMED,427665004,Paroxysmal atrial flutter (disorder),1,20210127
+AF,SNOMED,248411000000105,Atrial fibrillation annual review (regime/therapy),1,20210127
+AF,SNOMED,1110851000000100,Quality and Outcomes Framework atrial fibrillation quality indicator-related care invitation (procedure),1,20210127
+AF,SNOMED,711411000000101,Atrial fibrillation monitoring invitation (procedure),1,20210127
+AF,SNOMED,716981000000106,Atrial fibrillation monitoring second letter (procedure),1,20210127
+AF,SNOMED,717011000000100,Atrial fibrillation monitoring verbal invitation (procedure),1,20210127
+AF,SNOMED,717221000000101,Atrial fibrillation monitoring first letter (procedure),1,20210127
+AF,SNOMED,716181000000109,Atrial fibrillation monitoring third letter (procedure),1,20210127
+AF,SNOMED,716721000000107,Atrial fibrillation monitoring telephone invitation (procedure),1,20210127
+AF,ICD10,I48,Atrial fibrillation and flutter,1,20210127
