@@ -2,7 +2,9 @@
 
 ## Project description
 
-Description/plain English summary to be added here.
+There have been over 5 million deaths due to COVID-19 globally, with more than 144,000 in the UK. Estimates of mortality have been the most reported and used statistics since the start of the pandemic, influencing policy and planning. Use of EHR informed early identification of risk factors for COVID-19 mortality, leading to social distancing and lockdown in the UK9-10. One of the crucial predictors of mortality in infectious disease is the existence of underlying chronic diseases. However, baseline mortality risk in people with underlying conditions is not used in common models for estimating the mortality of infection diseases. Most of the predictive models for mortality of infectious diseases, including COVID-19, are based on transmissibility, the severity of the infection, case fatality ratio, infection fatality ratio and R-0, many of which are unknown at the start of the pandemic. 
+In March 2020, we estimated 1-year COVID-19 mortality in England using the EHR of 3.8 million patients provided by Clinical Practice Research Datalink (CPRD). The main parameters in our predictive model were baseline all-cause mortality in people with underlying chronic conditions and combinations of scenario-based values of relative risk (RR) of mortality and infection rate (IR) of COVID-19. 
+This project aims to validate our previous model in 44.9 million patients aged 30 and older in Trusted Research Environment (TRE) for England. In our development and validation models, we are interested in the direct effects of the pandemic on 1-year all-cause mortality in people with underlying chronic conditions listed at high-risk factors for COVID-19.
 
 ## How to cite this work
 > Citation to follow
