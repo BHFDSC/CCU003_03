@@ -1,4 +1,4 @@
-# Using national electronic health records for pandemic preparedness: validation of a parsimonious model for predicting excess COVID-19 deaths
+# Using national electronic health records for pandemic preparedness: validation of a parsimonious model for predicting excess deaths among those with COVID-19 – a data-driven retrospective cohort study
 
 ## Project description
 
@@ -11,7 +11,7 @@ In March 2020, we estimated 1-year COVID-19 mortality in England using the EHR o
 This project aims to validate our previous model in 44.9 million patients aged 30 and older in NHS Digital's Trusted Research Environment (TRE) for England. In our development and validation models, we are interested in the direct effects of the pandemic on 1-year all-cause mortality in people with underlying chronic conditions listed at high-risk factors for COVID-19.
 
 ## How to cite this work
-> Citation to follow
+Mizani MA, Dashtban A, Pasea L, et al. Using national electronic health records for pandemic preparedness: validation of a parsimonious model for predicting excess deaths among those with COVID-19–a data-driven retrospective cohort study. Journal of the Royal Society of Medicine. 2022;0(0). doi: https://doi.org/10.1177/01410768221131897
 
 ## Contents
 
